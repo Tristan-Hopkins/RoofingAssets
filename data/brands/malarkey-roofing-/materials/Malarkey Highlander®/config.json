@@ -1,0 +1,11 @@
+{
+  "name": "Malarkey Highlander\u00ae",
+  "headline": "Durable Architectural Shingles with NEX\u00ae Technology",
+  "price": 500.0,
+  "waste": 10,
+  "minPitch": 3,
+  "maxPitch": 12,
+  "pitchThreshold": 7,
+  "pricePerPitch": 15.0,
+  "mainImageName": "Storm Grey"
+}

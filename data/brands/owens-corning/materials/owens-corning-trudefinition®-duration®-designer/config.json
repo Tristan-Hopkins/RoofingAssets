@@ -1,0 +1,11 @@
+{
+  "name": "Owens Corning TruDefinition\u00ae Duration\u00ae Designer",
+  "headline": "Premium Designer Shingles with Bold Contrast and SureNail\u00ae Technology",
+  "price": 500.0,
+  "waste": 10,
+  "minPitch": 3,
+  "maxPitch": 12,
+  "pitchThreshold": 7,
+  "pricePerPitch": 15.0,
+  "mainImageName": "Aged Copper"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Tamko Elite Glass-Seal",
+  "headline": "Elite Glass-Seal Traditional 3-Tab Shingles",
+  "price": 500.0,
+  "waste": 10,
+  "minPitch": 3,
+  "maxPitch": 12,
+  "pitchThreshold": 7,
+  "pricePerPitch": 15.0,
+  "mainImageName": "Oxford Grey",
+  "galleryImages": [
+    "data/brands/tamko/materials/elite-glass-seal/gallery/elite-glass-seal_2.jpg",
+    "data/brands/tamko/materials/elite-glass-seal/gallery/elite-glass-seal_3.jpg",
+    "data/brands/tamko/materials/elite-glass-seal/gallery/elite-glass-seal_4.jpg",
+    "data/brands/tamko/materials/elite-glass-seal/gallery/elite-glass-seal_6.jpg"
+  ],
+  "galleryPreviewImages": [
+    "data/brands/tamko/materials/elite-glass-seal/gallery/elite-glass-seal_1_preview.jpg",
+    "data/brands/tamko/materials/elite-glass-seal/gallery/elite-glass-seal_2_preview.jpg",
+    "data/brands/tamko/materials/elite-glass-seal/gallery/elite-glass-seal_3_preview.jpg",
+    "data/brands/tamko/materials/elite-glass-seal/gallery/elite-glass-seal_4_preview.jpg",
+    "data/brands/tamko/materials/elite-glass-seal/gallery/elite-glass-seal_5_preview.jpg",
+    "data/brands/tamko/materials/elite-glass-seal/gallery/elite-glass-seal_6_preview.jpg"
+  ],
+  "galleryImagesNames": [
+    "Oxford Grey",
+    "Rustic Black",
+    "Rustic Cedar",
+    "Rustic Hickory",
+    "Shadow Grey",
+    "Weathered Wood"
+  ],
+  "useCustomGalleryPreviews": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ]
+}

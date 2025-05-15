@@ -1,0 +1,998 @@
+{
+  "malarkey-roofing-": {
+    "company": "Malarkey Roofing",
+    "description": "Malarkey Roofing Products is a premium American manufacturer of high-performance roofing systems that combine innovative technology with environmental sustainability.",
+    "logo": "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_logo.webp",
+    "id": "malarkey-roofing-",
+    "materials": [
+      {
+        "name": "Malarkey Highlander\u00ae",
+        "headline": "Durable Architectural Shingles with NEX\u00ae Technology",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Storm Grey",
+        "id": "Malarkey Highlander\u00ae",
+        "description": "<p><strong>Malarkey Highlander\u00ae shingles</strong> are our most economical architectural shingles, designed to provide durable protection and enhance your home's curb appeal.</p>\n\n<ul>\n  <li><strong>NEX\u00ae Polymer Modified Asphalt:</strong> These shingles are constructed using Malarkey's NEX\u00ae rubberized asphalt, offering improved flexibility, impact resistance, and granule adhesion, leading to a longer-lasting roof.</li>\n  <li><strong>Impact Resistance:</strong> Highlander\u00ae shingles have a <strong>Class 3 impact resistance rating</strong>, providing reliable protection against hail and debris.</li>\n  <li><strong>Wind Resistance:</strong> They come with a standard 110 mph limited wind warranty, which can be enhanced up to 130 mph when installed with specific Malarkey products.</li>\n  <li><strong>Fire Resistance:</strong> These shingles hold a <strong>Class A fire rating</strong>, offering maximum protection against fire hazards.</li>\n  <li><strong>Smog-Reducing Granules:</strong> Incorporates 3M\u2122 Smog-Reducing Granules that help clean the air by converting smog gases into water-soluble ions, contributing to a healthier environment.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>Malarkey Highlander\u00ae shingles come with a <strong>Limited Lifetime Warranty</strong> against manufacturing defects. For detailed warranty information, please visit <a href=\"https://www.malarkeyroofing.com/warranties/\" target=\"_blank\">Malarkey's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection will be required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>Malarkey Highlander\u00ae shingles</strong>, you're investing in a cost-effective, reliable roofing solution that offers durability and environmental benefits.</p>\n",
+        "image": "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_main.webp",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_main.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_7.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_9.webp"
+        ],
+        "galleryImagesNames": [
+          "Antique Brown",
+          "Storm Grey",
+          "Silverwood",
+          "Sienna Blend",
+          "Heather",
+          "Natural Wood",
+          "Weathered Wood"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_preview_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_preview.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_preview_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_preview_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_preview_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_preview_7.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_preview_9.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "Malarkey Windsor\u00ae Scotchgard\u2122",
+        "headline": "Designer Protection with Lifetime Algae Defense",
+        "price": 700.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Black Oak",
+        "id": "malarkey-legacy\u00ae-scotchgard\u2122-protector",
+        "description": "<p><strong>Malarkey Windsor\u00ae Scotchgard\u2122 shingles</strong> are premium designer shingles that emulate the traditional look of cedar shake roofs while offering advanced durability and protection.</p>\n\n<ul>\n  <li><strong>NEX\u00ae Polymer Modified Asphalt:</strong> These shingles are crafted using Malarkey's NEX\u00ae polymer modified asphalt, enhancing flexibility, impact resistance, and granule adhesion for an extended roof lifespan.</li>\n  <li><strong>Impact Resistance:</strong> Windsor\u00ae Scotchgard\u2122 shingles boast a <strong>Class 4 impact resistance rating</strong>, the highest available, providing superior protection against hail and debris.</li>\n  <li><strong>Wind Resistance:</strong> Designed to withstand winds up to <strong>110 mph</strong>, with an enhanced wind warranty available for up to <strong>140 mph</strong>.</li>\n  <li><strong>Fire Resistance:</strong> Class A fire rating, offering maximum protection against fire hazards.</li>\n  <li><strong>Scotchgard\u2122 Protector:</strong> Incorporates 3M\u2122 Scotchgard\u2122 technology to prevent black streaks caused by algae, ensuring long-lasting roof aesthetics.</li>\n  <li><strong>Smog-Reducing Granules:</strong> Features 3M\u2122 Smog-Reducing Granules that help clean the air by converting smog gases into water-soluble ions, contributing to a healthier environment.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>Malarkey Windsor\u00ae Scotchgard\u2122 shingles come with a <strong>Limited Lifetime Warranty</strong> against manufacturing defects and a <strong>Limited Lifetime Algae Warranty</strong> against algae discoloration. For detailed warranty information, please visit <a href=\"https://www.malarkeyroofing.com/warranties/\" target=\"_blank\">Malarkey's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection will be required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>Malarkey Windsor\u00ae Scotchgard\u2122 shingles</strong>, you're investing in a high-quality, aesthetically pleasing roofing solution designed to withstand the elements while enhancing your home's value.</p>\n",
+        "image": "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_malarkey-legacy\u00ae-scotchgard\u2122-protector_main.webp",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_malarkey-legacy\u00ae-scotchgard\u2122-protector_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_malarkey-legacy\u00ae-scotchgard\u2122-protector_gallery_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_malarkey-legacy\u00ae-scotchgard\u2122-protector_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_malarkey-legacy\u00ae-scotchgard\u2122-protector_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_malarkey-legacy\u00ae-scotchgard\u2122-protector_gallery_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_malarkey-legacy\u00ae-scotchgard\u2122-protector_gallery_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_malarkey-legacy\u00ae-scotchgard\u2122-protector_gallery_7.webp"
+        ],
+        "galleryImagesNames": [
+          "Antique Brown",
+          "Midnight Black",
+          "Natural Wood",
+          "Heather",
+          "Weathered Wood",
+          "Storm Grey"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_malarkey-legacy\u00ae-scotchgard\u2122-protector_gallery_preview_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_malarkey-legacy\u00ae-scotchgard\u2122-protector_gallery_preview_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_malarkey-legacy\u00ae-scotchgard\u2122-protector_gallery_preview_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_malarkey-legacy\u00ae-scotchgard\u2122-protector_gallery_preview_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_malarkey-legacy\u00ae-scotchgard\u2122-protector_gallery_preview_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_malarkey-legacy\u00ae-scotchgard\u2122-protector_gallery_preview_7.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "Malarkey Vista\u00ae AR",
+        "headline": "Premium Protection with Advanced Algae Resistance",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Midnight Black",
+        "id": "malarkey-vista\u00ae-ar",
+        "description": "<p><strong>Malarkey Vista\u00ae AR shingles</strong> are high-performance architectural shingles designed for durability, impact resistance, and long-term weather protection.</p>\n\n<ul>\n  <li><strong>NEX\u00ae Polymer Modified Asphalt:</strong> Crafted with Malarkey's NEX\u00ae rubberized asphalt, these shingles offer enhanced flexibility, impact resistance, and granule adhesion.</li>\n  <li><strong>Impact Resistance:</strong> Vista\u00ae AR shingles carry a <strong>Class 4 impact resistance rating</strong>, providing top-tier protection against hail and debris.</li>\n  <li><strong>Wind Resistance:</strong> Standard <strong>110 mph</strong> limited wind warranty, with enhancement options up to <strong>130 mph</strong> when installed with Malarkey-approved products.</li>\n  <li><strong>Algae Resistance:</strong> Equipped with 3M\u2122 Scotchgard\u2122 technology, these shingles include a <strong>10-year algae warranty</strong> to prevent black streaks and discoloration.</li>\n  <li><strong>Sustainable Materials:</strong> Incorporates upcycled rubber and plastic, diverting waste from landfills and contributing to environmental sustainability.</li>\n  <li><strong>Smog-Reducing Granules:</strong> Features 3M\u2122 Smog-Reducing Granules that convert airborne pollutants into water-soluble ions, improving air quality.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>Malarkey Vista\u00ae AR shingles come with a <strong>Limited Lifetime Warranty</strong> against manufacturing defects. For detailed warranty information, please visit \n<a href=\"https://www.malarkeyroofing.com/warranties/\" target=\"_blank\">Malarkey's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may require an on-site inspection for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, additional labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> Unforeseen issues such as rotted decking may require replacement.</li>\n  <li><strong>Specialty Work:</strong> Custom flashing, skylight replacements, or ventilation adjustments may require modifications to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>Malarkey Vista\u00ae AR shingles</strong>, you're investing in a sustainable, high-performance roofing solution designed to enhance your home's durability and environmental footprint.</p>\n",
+        "image": "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_malarkey-vista\u00ae-ar_main.webp",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_malarkey-vista\u00ae-ar_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_main.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_7.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_9.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_1.webp"
+        ],
+        "galleryImagesNames": [
+          "Storm Grey",
+          "Silverwood",
+          "Sienna Blend",
+          "Heather",
+          "Natural Wood",
+          "Weathered Wood",
+          "Antique Brown"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_preview.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_preview_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_preview_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_preview_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_preview_7.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_preview_9.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/malarkey-roofing-_Malarkey Highlander\u00ae_gallery_preview_1.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      }
+    ]
+  },
+  "gaf": {
+    "company": "GAF",
+    "description": "As North America\u2019s largest roofing manufacturer, GAF is an industry leader that produces quality, innovative roofing materials.",
+    "logo": "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_logo.webp",
+    "id": "gaf",
+    "materials": [
+      {
+        "name": "GAF Slateline\u00ae",
+        "headline": "Bold shadow lines and tapered cut-outs create the look of slate at a fraction of the cost.",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Slateline",
+        "id": "-gaf-slateline\u00ae",
+        "description": "<p><strong>GAF Slateline\u00ae shingles</strong> offer the elegant look of slate at a fraction of the cost, combining sophisticated design with durable performance.</p>\n\n<ul>\n  <li><strong>Slate Appearance:</strong> Bold shadow lines and tapered cut-outs create depth and dimension, closely resembling the look of traditional slate roofing. :contentReference[oaicite:2]{index=2}</li>\n  <li><strong>Cost-Effective:</strong> Provides the luxury aesthetic of slate without the associated high costs, making it an affordable roofing option. :contentReference[oaicite:3]{index=3}</li>\n  <li><strong>Algae Resistance:</strong> Equipped with GAF's time-release algae-fighting technology, these shingles come with a 25-year StainGuard Plus\u2122 Algae Protection Limited Warranty against blue-green algae discoloration. :contentReference[oaicite:4]{index=4}</li>\n  <li><strong>Durability:</strong> Engineered with Advanced Protection\u00ae Shingle Technology, offering excellent protection against various weather conditions. :contentReference[oaicite:5]{index=5}</li>\n  <li><strong>Fire Resistance:</strong> Achieves a Class A fire rating, providing superior protection against fire hazards. :contentReference[oaicite:6]{index=6}</li>\n  <li><strong>Wind Resistance:</strong> Rated to withstand winds up to 130 mph, ensuring stability in high-wind areas. :contentReference[oaicite:7]{index=7}</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>Slateline\u00ae shingles come with a <strong>Lifetime Limited Warranty</strong> when installed with at least three qualifying GAF accessories. For detailed warranty information, please visit <a href=\"https://www.gaf.com/en-us/roofing-materials/residential-roofing-materials/shingles/slateline\" target=\"_blank\">GAF's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection is required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>GAF Slateline\u00ae shingles</strong>, you're investing in a roofing solution that combines the classic beauty of slate with modern performance features, ensuring lasting protection and enhanced curb appeal for your home.</p>\n",
+        "image": "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_-gaf-slateline\u00ae_main.webp",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_-gaf-slateline\u00ae_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_-gaf-slateline\u00ae_gallery_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_-gaf-slateline\u00ae_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_-gaf-slateline\u00ae_gallery_3.webp"
+        ],
+        "galleryImagesNames": [
+          "English Gray",
+          "Royal Slate",
+          "Weathered Slate"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_-gaf-slateline\u00ae_gallery_preview_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_-gaf-slateline\u00ae_gallery_preview_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_-gaf-slateline\u00ae_gallery_preview_3.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "Timberline HDZ\u00ae",
+        "headline": "GAF\u2019s #1-selling shingle. High Definition\u00ae color blends backed by strong warranties.",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Pewter Gray",
+        "id": "timberline-hdz\u00ae",
+        "description": "<p><strong>GAF Timberline HDZ\u00ae shingles</strong> offer a blend of beauty and reliable protection, making them a top choice for homeowners seeking both style and performance.</p>\n\n<ul>\n  <li><strong>LayerLock\u2122 Technology:</strong> Features proprietary LayerLock\u2122 Technology, mechanically fusing the common bond between overlapping shingle layers. This innovation, combined with the StrikeZone\u2122 nailing area\u2014the industry's largest\u2014ensures up to 99.9% nailing accuracy, facilitating faster and more precise installations. <a href=\"https://www.gaf.com/en-us/roofing-materials/residential-roofing-materials/shingles/timberline-hdz\" target=\"_blank\">[Source]</a></li>\n  <li><strong>WindProven\u2122 Limited Wind Warranty:</strong> When installed with the required combination of four qualifying GAF accessories, Timberline HDZ\u00ae shingles qualify for the WindProven\u2122 Limited Wind Warranty, offering coverage with no maximum wind speed limitation. This provides homeowners with confidence in their roof's ability to withstand severe wind conditions. <a href=\"https://www.gaf.com/en-us/roofing-materials/residential-roofing-materials/shingles/timberline-hdz\" target=\"_blank\">[Source]</a></li>\n  <li><strong>StainGuard Plus\u2122 Algae Protection:</strong> Equipped with GAF's time-release algae-fighting technology, these shingles come with a 25-year StainGuard Plus\u2122 Algae Protection Limited Warranty against blue-green algae discoloration, helping maintain the roof's appearance over time. <a href=\"https://www.gaf.com/en-us/roofing-materials/residential-roofing-materials/shingles/timberline-hdz\" target=\"_blank\">[Source]</a></li>\n  <li><strong>High Definition Color Blends:</strong> Patented High Definition\u00ae shadow bands create exceptional depth and dimension, resulting in a striking visual effect that enhances curb appeal. A wide array of color options ensures a perfect match for various architectural styles. <a href=\"https://www.gaf.com/en-us/plan-design/design-your-roof/shingle-color-guide\" target=\"_blank\">[Source]</a></li>\n  <li><strong>Advanced Protection\u00ae Shingle Technology:</strong> Engineered for superior durability, Timberline HDZ\u00ae shingles provide excellent protection against various weather conditions, ensuring long-term performance and peace of mind for homeowners. <a href=\"https://www.gaf.com/en-us/roofing-materials/residential-roofing-materials/shingles/timberline-hdz\" target=\"_blank\">[Source]</a></li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>Timberline HDZ\u00ae shingles come with a <strong>Lifetime Limited Warranty</strong> when installed with at least three qualifying GAF accessories. For detailed warranty information, please visit <a href=\"https://www.gaf.com/en-us/roofing-materials/residential-roofing-materials/shingles/timberline-hdz\" target=\"_blank\">GAF's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection is required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>GAF Timberline HDZ\u00ae shingles</strong>, you're investing in a roofing solution that combines advanced technology with aesthetic excellence, ensuring lasting beauty and protection for your home.</p>\n",
+        "image": "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-hdz\u00ae_main.webp",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-hdz\u00ae_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-hdz\u00ae_gallery_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-hdz\u00ae_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-hdz\u00ae_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-hdz\u00ae_gallery_4.webp"
+        ],
+        "galleryImagesNames": [
+          "Barkwood",
+          "Birchwood",
+          "Cedar Falls",
+          "Charcoal"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-hdz\u00ae_gallery_preview_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-hdz\u00ae_gallery_preview_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-hdz\u00ae_gallery_preview_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-hdz\u00ae_gallery_preview_4.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "GAF Timberline UHDZ\u00ae",
+        "headline": "Timberline UHDZ\u00ae (Ultra High Definition) shingles offer a combination of beauty and benefits that go beyond any other GAF shingle.",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Pewter Gray",
+        "id": "timberline-uhdz\u00ae",
+        "description": "<p><strong>GAF Timberline UHDZ\u00ae shingles</strong> are premium architectural shingles designed to offer enhanced aesthetics and superior protection for your home.</p>\n\n<ul>\n  <li><strong>Ultra-Dimensional Appearance:</strong> Features a patent-pending Dual Shadow Line that creates striking shadow effects throughout the day, emulating the rich look of wood shakes.</li>\n  <li><strong>Enhanced Algae Resistance:</strong> Equipped with 10% more time-release algae-fighting technology, these shingles come with a 30-year StainGuard Plus PRO\u2122 Limited Warranty against blue-green algae discoloration.</li>\n  <li><strong>Wind Resistance:</strong> When installed with the required combination of four qualifying GAF accessories, Timberline UHDZ\u00ae shingles qualify for the WindProven\u2122 Limited Wind Warranty with no maximum wind speed limitation.</li>\n  <li><strong>LayerLock\u2122 Technology:</strong> Incorporates LayerLock\u2122 Technology and the StrikeZone\u2122 Nailing Area, facilitating efficient installation and strong adhesion.</li>\n  <li><strong>Impact Resistance:</strong> When enhanced with UltraMat high-performance fiberglass mat, these shingles achieve a UL 2218 Class 4 impact-resistance rating, offering robust protection against hail and debris.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>Timberline UHDZ\u00ae shingles come with a <strong>30-year StainGuard Plus PRO\u2122 Limited Warranty</strong> against blue-green algae discoloration. Additionally, they are eligible for the <strong>WindProven\u2122 Limited Wind Warranty</strong> when installed with the required combination of four qualifying GAF accessories. For detailed warranty information, please visit <a href=\"https://www.gaf.com/en-us/roofing-materials/residential-roofing-materials/shingles/timberline-uhdz\" target=\"_blank\">GAF's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection will be required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>GAF Timberline UHDZ\u00ae shingles</strong>, you're investing in a roofing solution that combines aesthetic excellence with advanced protection, ensuring lasting beauty and durability for your home.</p>\n",
+        "image": "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-uhdz\u00ae_main.webp",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-uhdz\u00ae_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-uhdz\u00ae_gallery_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-uhdz\u00ae_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-uhdz\u00ae_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-uhdz\u00ae_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-uhdz\u00ae_gallery_5.webp"
+        ],
+        "galleryImagesNames": [
+          "Barkwood",
+          "Charcoal",
+          "Shakewood",
+          "Slate",
+          "Weathered Wood"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-uhdz\u00ae_gallery_preview_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-uhdz\u00ae_gallery_preview_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-uhdz\u00ae_gallery_preview_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-uhdz\u00ae_gallery_preview_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/gaf_timberline-uhdz\u00ae_gallery_preview_5.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      }
+    ]
+  },
+  "owens-corning": {
+    "company": "Owens Corning",
+    "description": "Owens Corning is an American company that develops and produces insulation, roofing, and fiberglass composites and related products.",
+    "logo": "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_logo.webp",
+    "id": "owens-corning",
+    "materials": [
+      {
+        "name": "Owens Corning TruDefinition\u00ae Duration MAX\u00ae",
+        "headline": "Maximum Protection Shingles with Class 4 Impact Resistance and SureNail\u00ae Technology",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Carbon",
+        "id": "owens-corning-trudefinition\u00ae-duration-max\u00ae",
+        "description": "<p><strong>Owens Corning TruDefinition\u00ae Duration MAX\u00ae Shingles</strong> offer a robust and aesthetically pleasing roofing solution, combining the classic look of wood with modern performance features.</p>\n\n<ul>\n  <li><strong>Bold, Thick Appearance:</strong> Designed to emulate the dimensional look of wood shingles, enhancing your home's curb appeal.</li>\n  <li><strong>SureNail\u00ae Technology:</strong> Incorporates a reinforced nailing zone for consistent installation quality and enhanced wind resistance.</li>\n  <li><strong>Wind Resistance:</strong> Engineered to withstand winds up to 130 mph, providing robust protection against severe weather conditions.</li>\n  <li><strong>Impact Resistance:</strong> Achieves a Class 3 impact resistance rating, offering substantial defense against hail and debris.</li>\n  <li><strong>Algae Resistance:</strong> Equipped with StreakGuard\u00ae Algae Resistance Protection, helping to prevent unsightly black streaks caused by algae growth.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>TruDefinition\u00ae Duration MAX\u00ae Shingles come with a <strong>Limited Lifetime Warranty</strong> for as long as you own your home. For detailed warranty information, please visit <a href=\"https://www.owenscorning.com/en-us/roofing/warranty\" target=\"_blank\">Owens Corning's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection is required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>Owens Corning TruDefinition\u00ae Duration MAX\u00ae Shingles</strong>, you're investing in a roofing solution that combines the timeless beauty of wood with advanced technology, ensuring lasting protection and aesthetic appeal for your home.</p>\n",
+        "image": "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-max\u00ae_main.webp",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-max\u00ae_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-max\u00ae_gallery_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-max\u00ae_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-max\u00ae_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-max\u00ae_gallery_4.webp"
+        ],
+        "galleryImagesNames": [
+          "Granite",
+          "Mesquite",
+          "Smokey Mountain",
+          "Sycamore"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-max\u00ae_gallery_preview_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-max\u00ae_gallery_preview_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-max\u00ae_gallery_preview_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-max\u00ae_gallery_preview_4.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "Owens Corning Woodmoor\u00ae",
+        "headline": "Premium Wood-Shake Appearance with Distinctive Thickness and Rugged Texture",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Carbon",
+        "id": "owens-corning-woodmoor\u00ae",
+        "description": "<p><strong>Owens Corning Woodmoor\u00ae Shingles</strong> offer a bold, rustic appearance combined with advanced performance features to enhance your home's curb appeal and safeguard it against the elements.</p>\n\n<ul>\n  <li><strong>Extra-Thick Profile:</strong> These shingles feature an extra-thick, three-dimensional design that closely resembles traditional wood shakes, adding depth and character to your roof. <a href=\"https://www.owenscorning.com/en-us/roofing/shingles/woodmoor\" target=\"_blank\">[Source]</a></li>\n  <li><strong>Wind Resistance:</strong> Engineered to withstand winds up to 110 mph, and up to 130 mph with enhanced installation methods, providing robust protection against severe weather conditions. <a href=\"https://www2.owenscorning.com/literature/pdfs/data_woodmoor.pdf\" target=\"_blank\">[Source]</a></li>\n  <li><strong>Algae Resistance:</strong> Equipped with StreakGuard\u00ae Algae Resistance Protection, these shingles help prevent unsightly black streaks caused by algae growth, maintaining the roof's aesthetic appeal over time. <a href=\"https://www.owenscorning.com/en-us/roofing/streakguard\" target=\"_blank\">[Source]</a></li>\n  <li><strong>Durability:</strong> Constructed with multiple layers for added strength and longevity, ensuring long-term performance and resistance to environmental stressors.</li>\n  <li><strong>Color Options:</strong> Available in a variety of colors to complement different architectural styles and personal preferences.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>Woodmoor\u00ae Shingles come with a <strong>Limited Lifetime Warranty</strong> for as long as you own your home. For detailed warranty information, please visit <a href=\"https://www.owenscorning.com/en-us/roofing/warranty\" target=\"_blank\">Owens Corning's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection is required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>Owens Corning Woodmoor\u00ae Shingles</strong>, you're investing in a roofing solution that combines the timeless beauty of wood shakes with modern performance features, ensuring lasting protection and enhanced aesthetic appeal for your home.</p>\n",
+        "image": "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodmoor\u00ae_main.webp",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodmoor\u00ae_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodmoor\u00ae_gallery_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodmoor\u00ae_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodmoor\u00ae_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodmoor\u00ae_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodmoor\u00ae_gallery_5.webp"
+        ],
+        "galleryImagesNames": [
+          "Chestnut",
+          "Granite",
+          "Mesquite",
+          "Sycamore",
+          "Timber"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodmoor\u00ae_gallery_preview_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodmoor\u00ae_gallery_preview_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodmoor\u00ae_gallery_preview_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodmoor\u00ae_gallery_preview_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodmoor\u00ae_gallery_preview_5.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "Owens Corning Duration\u00ae Premium",
+        "headline": "Premium Performance Shingles with Enhanced Durability and SureNail\u00ae Technology",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Brownwood",
+        "id": "owens-corning-duration\u00ae-premium",
+        "description": "<p><strong>Owens Corning Duration\u00ae Premium Shingles</strong> offer a blend of advanced technology and robust materials to deliver superior protection and a distinctive look for your home.</p>\n\n<ul>\n  <li><strong>SureNail\u00ae Technology:</strong> Incorporates a tough, woven engineered reinforcing fabric in the nailing area, ensuring consistent installation quality and enhanced wind resistance. This technology provides a unique \"triple layer\" of reinforcement when the fabric overlays the common bond of the shingle laminate layers, offering excellent fastener holding power.</li>\n  <li><strong>Wind Resistance:</strong> Engineered to withstand winds up to 130 mph, providing robust protection against severe weather conditions.</li>\n  <li><strong>Algae Resistance:</strong> Equipped with StreakGuard\u00ae Algae Resistance Protection, these shingles help prevent unsightly black streaks caused by algae growth.</li>\n  <li><strong>Durability:</strong> Constructed with multiple layers for added strength and longevity, ensuring long-term performance.</li>\n  <li><strong>Aesthetic Appeal:</strong> Designed with a bold, thick, dimensional appearance to enhance your home's curb appeal.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>Duration\u00ae Premium Shingles come with a <strong>Limited Lifetime Warranty</strong> for as long as you own your home. For detailed warranty information, please visit <a href=\"https://www.owenscorning.com/en-us/roofing/warranty\" target=\"_blank\">Owens Corning's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection is required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>Owens Corning Duration\u00ae Premium Shingles</strong>, you're investing in a roofing solution that combines advanced technology with aesthetic excellence, ensuring lasting beauty and protection for your home.</p>\n",
+        "image": "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-duration\u00ae-premium_main.webp",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-duration\u00ae-premium_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-duration\u00ae-premium_gallery_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-duration\u00ae-premium_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-duration\u00ae-premium_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-duration\u00ae-premium_gallery_4.webp"
+        ],
+        "galleryImagesNames": [
+          "Driftwood",
+          "Estate Gray",
+          "Onyx Black",
+          "Teak"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-duration\u00ae-premium_gallery_preview_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-duration\u00ae-premium_gallery_preview_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-duration\u00ae-premium_gallery_preview_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-duration\u00ae-premium_gallery_preview_4.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "Owens Corning Oakridge\u00ae",
+        "headline": "Dimensional Laminate Shingles with Classic Style and Wind Resistance",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Black Walnut",
+        "id": "owens-corning-oakridge\u00ae",
+        "description": "<p><strong>Owens Corning Oakridge\u00ae Shingles</strong> offer a harmonious blend of beauty and functionality, making them a reliable choice for enhancing your home's exterior.</p>\n\n<ul>\n  <li><strong>Enhanced Aesthetic Appeal:</strong> Oakridge\u00ae Shingles feature a warm, inviting look with a variety of popular colors, providing a step up from traditional three-tab shingles.</li>\n  <li><strong>Double Layer Nailing Zone:</strong> A full double layer in the nailing zone gives these shingles greater integrity and better holding power compared to shingles with wide single-layer nail zones. <a href=\"https://www.owenscorning.com/en-us/roofing/nailing-zone-performance\" target=\"_blank\">[Source]</a></li>\n  <li><strong>Wind Resistance:</strong> Engineered to withstand winds up to 110 mph, and up to 130 mph with enhanced installation methods, offering robust protection against severe weather conditions.</li>\n  <li><strong>Algae Resistance:</strong> Equipped with StreakGuard\u00ae Algae Resistance Protection, these shingles help prevent unsightly black streaks caused by algae growth.</li>\n  <li><strong>Energy Efficiency:</strong> The Shasta White color option meets ENERGY STAR\u00ae ratings, reflecting solar energy and potentially reducing cooling costs. <a href=\"https://www2.owenscorning.com/literature/pdfs/ds_oakridge_atl_jackson.pdf\" target=\"_blank\">[Source]</a></li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>Oakridge\u00ae Shingles come with a <strong>Limited Lifetime Warranty</strong> for as long as you own your home. For detailed warranty information, please visit <a href=\"https://www.owenscorning.com/en-us/roofing/warranty\" target=\"_blank\">Owens Corning's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection is required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>Owens Corning Oakridge\u00ae Shingles</strong>, you're investing in a roofing solution that combines timeless beauty with reliable performance, ensuring lasting protection and enhanced curb appeal for your home.</p>\n",
+        "image": "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-oakridge\u00ae_main.webp",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-oakridge\u00ae_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-oakridge\u00ae_gallery_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-oakridge\u00ae_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-oakridge\u00ae_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-oakridge\u00ae_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-oakridge\u00ae_gallery_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-oakridge\u00ae_gallery_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-oakridge\u00ae_gallery_7.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-oakridge\u00ae_gallery_8.webp"
+        ],
+        "galleryImagesNames": [
+          "Brownwood",
+          "Desert Tan",
+          "Driftwood",
+          "Estate Gray",
+          "Onyx Black",
+          "Sierra Gray",
+          "Teak",
+          "Twilight Black"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-oakridge\u00ae_gallery_preview_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-oakridge\u00ae_gallery_preview_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-oakridge\u00ae_gallery_preview_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-oakridge\u00ae_gallery_preview_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-oakridge\u00ae_gallery_preview_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-oakridge\u00ae_gallery_preview_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-oakridge\u00ae_gallery_preview_7.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-oakridge\u00ae_gallery_preview_8.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "Owens Corning TruDefinition\u00ae Duration\u00ae Designer",
+        "headline": "Premium Designer Shingles with Bold Contrast and SureNail\u00ae Technology",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Aged Copper",
+        "id": "owens-corning-trudefinition\u00ae-duration\u00ae-designer",
+        "description": "<p><strong>Owens Corning TruDefinition\u00ae Duration\u00ae Designer Shingles</strong> offer bold, high-contrast color palettes and innovative technology to provide both beauty and durability for your roofing needs.</p>\n\n<ul>\n  <li><strong>TruDefinition\u00ae Color Platform:</strong> Delivers vibrant, high-contrast color combinations, enhancing the dimensional appearance of your roof.</li>\n  <li><strong>SureNail\u00ae Technology:</strong> Incorporates a reinforced nailing zone for consistent installation quality and enhanced wind resistance.</li>\n  <li><strong>Wind Resistance:</strong> Engineered to withstand winds up to 130 mph, offering robust protection against severe weather conditions.</li>\n  <li><strong>Algae Resistance:</strong> Equipped with StreakGuard\u00ae Algae Resistance Protection, these shingles help prevent unsightly black streaks caused by algae growth.</li>\n  <li><strong>Durability:</strong> Constructed with multiple layers for added strength and longevity, ensuring long-term performance.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>TruDefinition\u00ae Duration\u00ae Designer Shingles come with a <strong>Limited Lifetime Warranty</strong> for as long as you own your home. For detailed warranty information, please visit <a href=\"https://www.owenscorning.com/en-us/roofing/warranty\" target=\"_blank\">Owens Corning's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection is required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>Owens Corning TruDefinition\u00ae Duration\u00ae Designer Shingles</strong>, you're investing in a roofing solution that combines advanced technology with aesthetic excellence, ensuring lasting beauty and protection for your home.</p>\n",
+        "image": "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae-designer_main.webp",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae-designer_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae-designer_gallery_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae-designer_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae-designer_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae-designer_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae-designer_gallery_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae-designer_gallery_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae-designer_gallery_8.webp"
+        ],
+        "galleryImagesNames": [
+          "Black Sable",
+          "Bourbon",
+          "Pacific Wave",
+          "Sedona Canyon",
+          "Merlot",
+          "Sand Dune",
+          "Storm Cloud"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae-designer_gallery_preview_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae-designer_gallery_preview_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae-designer_gallery_preview_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae-designer_gallery_preview_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae-designer_gallery_preview_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae-designer_gallery_preview_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae-designer_gallery_preview_8.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "Owens Corning TruDefinition\u00ae Duration FLEX\u00ae",
+        "headline": "Premium Flexible Shingles with Enhanced Impact Resistance and SureNail\u00ae Technology",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Black Sable",
+        "id": "owens-corning-trudefinition\u00ae-duration-flex\u00ae",
+        "description": "<p><strong>Owens Corning TruDefinition\u00ae Duration FLEX\u00ae Shingles</strong> combine advanced technology with robust materials to offer enhanced protection and aesthetic appeal for your home.</p>\n\n<ul>\n  <li><strong>SureNail\u00ae Technology:</strong> Incorporates a reinforced nailing zone for consistent installation quality and enhanced wind resistance.</li>\n  <li><strong>Impact Resistance:</strong> Achieves a Class 4 impact resistance rating, the highest available, offering robust protection against hail and debris.</li>\n  <li><strong>Wind Resistance:</strong> Designed to withstand winds up to 130 mph, providing reliable performance in severe weather conditions.</li>\n  <li><strong>Algae Resistance:</strong> Equipped with StreakGuard\u00ae Algae Resistance Protection, helping to prevent unsightly black streaks caused by algae growth.</li>\n  <li><strong>Flexibility:</strong> Engineered with a proprietary blend of SBS polymer-modified asphalt, enhancing flexibility and durability in various temperatures.</li>\n  <li><strong>Aesthetic Appeal:</strong> Available in a range of vibrant, high-contrast colors to enhance your home's curb appeal.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>TruDefinition\u00ae Duration FLEX\u00ae Shingles come with a <strong>Limited Lifetime Warranty</strong> for as long as you own your home. For detailed warranty information, please visit <a href=\"https://www.owenscorning.com/en-us/roofing/warranty\" target=\"_blank\">Owens Corning's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection is required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>Owens Corning TruDefinition\u00ae Duration FLEX\u00ae Shingles</strong>, you're investing in a roofing solution that combines advanced technology with aesthetic excellence, ensuring lasting beauty and protection for your home.</p>\n",
+        "image": "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_main.webp",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_7.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae-designer_gallery_8.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_9.webp"
+        ],
+        "galleryImagesNames": [
+          "Brownwood",
+          "Driftwood",
+          "Estate Gray",
+          "MIdnight Plum",
+          "Teak",
+          "Onyx Black",
+          "Sand Dune",
+          "Storm Cloud",
+          "Summer Harvest"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_preview_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_preview_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_preview_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_preview_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_preview_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_preview_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_preview_7.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_preview_8.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_preview_9.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "Owens Corning TruDefinition\u00ae Duration\u00ae",
+        "headline": "Premium Architectural Shingles with SureNail\u00ae Technology",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Brownwood",
+        "id": "owens-corning-trudefinition\u00ae-duration\u00ae",
+        "description": "<p><strong>Owens Corning TruDefinition\u00ae Duration\u00ae Shingles</strong> offer a blend of durability, advanced technology, and vibrant color options to enhance your home's curb appeal.</p>\n\n<ul>\n  <li><strong>SureNail\u00ae Technology:</strong> Features a unique fabric strip in the nailing area, providing outstanding gripping power and ensuring consistent installation quality.</li>\n  <li><strong>Wind Resistance:</strong> Engineered to withstand winds up to 130 mph, offering robust protection against severe weather conditions.</li>\n  <li><strong>Algae Resistance:</strong> Equipped with StreakGuard\u00ae Algae Resistance Protection, these shingles help prevent unsightly black streaks caused by algae growth.</li>\n  <li><strong>Aesthetic Appeal:</strong> The TruDefinition\u00ae color platform provides vibrant, high-contrast color combinations, enhancing the dimensional look of your roof.</li>\n  <li><strong>Durability:</strong> Constructed with multiple layers for added strength and longevity, ensuring long-term performance.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>TruDefinition\u00ae Duration\u00ae Shingles come with a <strong>Limited Lifetime Warranty</strong> for as long as you own your home. For detailed warranty information, please visit <a href=\"https://www.owenscorning.com/en-us/roofing/warranty\" target=\"_blank\">Owens Corning's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection is required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>Owens Corning TruDefinition\u00ae Duration\u00ae Shingles</strong>, you're investing in a roofing solution that combines advanced technology with aesthetic excellence, ensuring lasting beauty and protection for your home.</p>\n",
+        "image": "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_main.webp",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_gallery_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_gallery_9.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_gallery_10.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration-flex\u00ae_gallery_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_gallery_12.webp"
+        ],
+        "galleryImagesNames": [
+          "Midnight Plum",
+          "Chateua Green",
+          "Desert Rose",
+          "Onyx Black",
+          "PepperCorn",
+          "DriftWood",
+          "Estate Gray",
+          "Sierra Gray",
+          "Slatestone Gray",
+          "Teak",
+          "Williamsburg Gray"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_gallery_preview_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_gallery_preview_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_gallery_preview_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_gallery_preview_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_gallery_preview_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_gallery_preview_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_gallery_preview_7.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_gallery_preview_9.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_gallery_preview_10.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_gallery_preview_11.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-trudefinition\u00ae-duration\u00ae_gallery_preview_12.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "Owens Corning Woodcrest\u00ae",
+        "headline": "Authentic Wood-Shake Look Shingles with Artisan Craftsmanship and Dimensional Depth.",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Carbon",
+        "id": "owens-corning-woodcrest\u00ae",
+        "description": "<p><strong>Owens Corning Woodcrest\u00ae Shingles</strong> provide a thick, rugged appearance that emulates the natural beauty of wood shakes while delivering superior protection for your home.</p>\n\n<ul>\n  <li><strong>Thick, Rugged Appearance:</strong> Designed to replicate the look of traditional wood shakes, these shingles add depth and dimension to your roof, enhancing your home's curb appeal.</li>\n  <li><strong>Wind Resistance:</strong> Engineered to withstand winds up to 110 mph, and up to 130 mph with enhanced installation methods, offering robust protection against severe weather conditions.</li>\n  <li><strong>Algae Resistance:</strong> Equipped with StreakGuard\u00ae Algae Resistance Protection, helping to prevent unsightly black streaks caused by algae growth.</li>\n  <li><strong>Durability:</strong> Constructed with multiple layers for added strength and longevity, ensuring long-term performance.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>Woodcrest\u00ae Shingles come with a <strong>Limited Lifetime Warranty</strong> for as long as you own your home. For detailed warranty information, please visit <a href=\"https://www.owenscorning.com/en-us/roofing/warranty\" target=\"_blank\">Owens Corning's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection is required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>Owens Corning Woodcrest\u00ae Shingles</strong>, you're investing in a roofing solution that combines the timeless beauty of wood shakes with modern performance features, ensuring lasting protection and enhanced aesthetic appeal for your home.</p>\n",
+        "image": "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodcrest\u00ae_main.webp",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodcrest\u00ae_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodcrest\u00ae_gallery_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodcrest\u00ae_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodcrest\u00ae_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodcrest\u00ae_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodcrest\u00ae_gallery_5.webp"
+        ],
+        "galleryImagesNames": [
+          "Chestnut",
+          "Granite",
+          "Mesquite",
+          "Sycamore",
+          "Timber"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodcrest\u00ae_gallery_preview_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodcrest\u00ae_gallery_preview_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodcrest\u00ae_gallery_preview_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodcrest\u00ae_gallery_preview_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/owens-corning_owens-corning-woodcrest\u00ae_gallery_preview_5.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      }
+    ]
+  },
+  "tamko": {
+    "company": "TAMKO",
+    "description": "TAMKO Building Products LLC is a leading manufacturer of residential and commercial roofing products.",
+    "logo": "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_logo.webp",
+    "id": "tamko",
+    "materials": [
+      {
+        "name": "Tamko Elite Glass-Seal",
+        "headline": "Elite Glass-Seal Traditional 3-Tab Shingles",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Oxford Grey",
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_elite-glass-seal_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_elite-glass-seal_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_elite-glass-seal_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_elite-glass-seal_gallery_6.webp"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_elite-glass-seal_gallery_preview_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_elite-glass-seal_gallery_preview_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_elite-glass-seal_gallery_preview_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_elite-glass-seal_gallery_preview_6.webp"
+        ],
+        "galleryImagesNames": [
+          "Rustic Black",
+          "Rustic Cedar",
+          "Rustic Hickory",
+          "Weathered Wood"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "id": "elite-glass-seal",
+        "description": "<p><strong>Tamko Elite Glass-Seal shingles</strong> offer a classic, clean appearance with reliable performance at an economical price point, making them an excellent choice for budget-conscious homeowners.</p>\n<ul>\n  <li><strong>Traditional 3-Tab Design:</strong> Provides a uniform, neat appearance with clean lines that complement a wide variety of home styles.</li>\n  <li><strong>Fiberglass Mat Construction:</strong> Built on a resilient fiberglass mat coated on both sides with weathering-grade asphalt for improved fire resistance and long-term stability.</li>\n  <li><strong>Seal-Down Strips:</strong> Features specially formulated adhesive strips that activate in warm weather to create a strong bond between shingles, enhancing wind resistance.</li>\n  <li><strong>Mineral Surface Granules:</strong> Ceramic-coated mineral granules help protect against UV damage and provide consistent coloration.</li>\n  <li><strong>Algae Resistance:</strong> Includes algae-resistant granules that help inhibit the growth of blue-green algae, preventing unsightly black streaks on your roof.</li>\n  <li><strong>Class A Fire Rating:</strong> Offers superior protection against fire hazards, providing additional peace of mind for homeowners.</li>\n</ul>\n<p><strong>Warranty Information:</strong></p>\n<p>Tamko Elite Glass-Seal shingles come with a <strong>25-year Limited Warranty</strong> against manufacturing defects. For detailed warranty information, please visit <a href=\"https://www.tamko.com/warranty-center\" target=\"_blank\">Tamko's official warranty page</a>.</p>\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection will be required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n<p>By choosing <strong>Tamko Elite Glass-Seal shingles</strong>, you're investing in a time-tested roofing solution that delivers reliable protection and traditional aesthetics at an accessible price point.</p>",
+        "image": "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_elite-glass-seal_main.webp",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_elite-glass-seal_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "Tamko Titan XT",
+        "headline": "Titan XT High-Performance Architectural Shingles",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Antique Slate",
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_7.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_8.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_9.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_10.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_11.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_12.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_13.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_14.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_15.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_16.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_17.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_elite-glass-seal_main.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_19.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_20.webp"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_7.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_8.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_9.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_10.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_11.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_12.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_13.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_14.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_15.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_16.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_17.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_18.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_19.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_20.webp"
+        ],
+        "galleryImagesNames": [
+          "Autumn Brown",
+          "Black Walnut",
+          "Desert Sand",
+          "Glacier White",
+          "Mountain Slate",
+          "Natural Timber",
+          "Olde English Pewter",
+          "Oxford Grey",
+          "Painted Desert",
+          "Rustic Black",
+          "Rustic Cedar",
+          "Rustic Evergreen",
+          "Rustic Hickory",
+          "Rustic Redwood",
+          "Rustic Slate",
+          "Shadow Grey",
+          "Thunderstorm Grey",
+          "Virginia Slate",
+          "Weathered Wood"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "id": "titan-xt",
+        "description": "<p><strong>Tamko Titan XT shingles</strong> are premium architectural shingles engineered for exceptional durability and enhanced weather resistance, providing superior protection for your home.</p>\n\n<ul>\n  <li><strong>AnchorLock\u2122 Technology:</strong> Features a proprietary reinforcement layer that enhances wind performance by providing a secure anchor for nails, locking them tightly to the roof deck.</li>\n  <li><strong>Rapid Fire Zone\u2122:</strong> Includes an expanded nailing zone up to five times larger than classic Heritage shingles, allowing for faster and more precise installation.</li>\n  <li><strong>Advanced Fusion Sealants:</strong> Utilizes a family of aggressive modified sealants that create stronger bonds between shingles for enhanced wind resistance.</li>\n  <li><strong>UltraMAX Weathering Layer:</strong> Incorporates a specially formulated asphalt coating that provides additional protection against environmental exposure.</li>\n  <li><strong>Class 3 Impact Resistance:</strong> Certified UL 2218 Class 3 impact rating, offering enhanced protection against hail damage and potentially qualifying homeowners for insurance premium discounts.</li>\n  <li><strong>Superior Wind Resistance:</strong> Engineered to withstand winds up to 160 mph when installed according to high wind application instructions, backed by a 15-year limited wind warranty.</li>\n  <li><strong>Algae Protection:</strong> Includes StreakGuard\u00ae Algae Resistance Protection to prevent unsightly black streaks and maintain your roof's appearance over time.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>Tamko Titan XT shingles come with a <strong>Limited Lifetime Warranty</strong> with a 10-year Full Start Period (non-prorated). For detailed warranty information, please visit <a href=\"https://www.tamko.com/warranty-center\" target=\"_blank\">Tamko's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection will be required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>Tamko Titan XT shingles</strong>, you're investing in a high-performance roofing solution that combines advanced technology with exceptional durability, ensuring lasting beauty and protection for your home.</p>",
+        "image": "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_main.webp",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "Tamko Heritage",
+        "headline": "Classic Wood-Shake Look Architectural Shingles",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Olde English Pewter",
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_9.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_11.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_12.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_14.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_15.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_16.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_17.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_19.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_20.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_main.webp"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_9.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_heritage_gallery_preview_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_heritage_gallery_preview_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_14.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_heritage_gallery_preview_7.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_heritage_gallery_preview_8.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_17.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_19.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_heritage_gallery_preview_11.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_preview.webp"
+        ],
+        "galleryImagesNames": [
+          "Oxford Grey",
+          "Rustic Black",
+          "Rustic Cedar",
+          "Rustic Hickory",
+          "Rustic Redwood",
+          "Rustic Slate",
+          "Shadow Grey",
+          "Virginia Slate",
+          "Weathered Wood",
+          "Antique Slate"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "id": "heritage",
+        "description": "<p><strong>Tamko Heritage shingles</strong> are premium laminated architectural shingles that provide the classic look of wood shakes with the durability and performance of modern roofing materials.</p>\n\n<ul>\n  <li><strong>Fiberglass Mat Construction:</strong> Features a double-layer fiberglass mat design with a random-cut sawtooth pattern, providing multiple layers of protection and dimensional appearance.</li>\n  <li><strong>Laminated Design:</strong> Two layers of mat are coated with asphalt, surfaced with mineral granules, and then laminated together for enhanced durability and a dimensional wood-shake appearance.</li>\n  <li><strong>Shadowtone Technology:</strong> Creates enhanced dimension and depth, adding striking beauty and curb appeal to your home with vivid colors and dramatic shadow lines.</li>\n  <li><strong>Class A Fire Rating:</strong> Offers the highest level of fire resistance available for roofing materials, providing enhanced protection for your home.</li>\n  <li><strong>Wind Resistance:</strong> Engineered to withstand winds up to 110 mph with standard installation, and up to 130 mph with high-wind application methods.</li>\n  <li><strong>Algae Protection:</strong> Includes a 10-year Algae Cleaning Limited Warranty to help prevent unsightly black streaks caused by algae growth.</li>\n  <li><strong>Self-Sealing Design:</strong> Features a self-sealing strip of asphalt that bonds shingles together after installation, providing enhanced wind resistance.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>Tamko Heritage shingles come with a <strong>Limited Lifetime Warranty</strong> for single-family homes, including a 10-year Full Start\u2122 Period that covers both materials and labor. For detailed warranty information, please visit <a href=\"https://www.tamko.com/warranty-center\" target=\"_blank\">Tamko's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection will be required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>Tamko Heritage shingles</strong>, you're investing in a quality roofing solution that combines the classic beauty of wood shakes with modern technology for lasting protection and enhanced curb appeal.</p>",
+        "image": "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_8.webp",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_8.webp",
+        "useCustomPrimaryPreview": true,
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "Tamko StormFighter FLEX",
+        "headline": "Impact-Resistant Polymer Modified Shingles for Extreme Weather",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Black Walnut",
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_8.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_stormfighter-flex_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_12.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_stormfighter-flex_gallery_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_stormfighter-flex_gallery_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_stormfighter-flex_gallery_7.webp"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_8.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_11.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_heritage_gallery_preview_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_16.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_18.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_preview_20.webp"
+        ],
+        "galleryImagesNames": [
+          "Olde English Pewter",
+          "Rustic Black",
+          "Rustic Cedar",
+          "Rustic Slate",
+          "Thunderstorm Grey",
+          "Weathered Wood"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "id": "stormfighter-flex",
+        "description": "<p><strong>Tamko StormFighter FLEX</strong> - <em>The BEST All-Weather Performance Shingle on the Market</em></p>\n\n<p>StormFighter FLEX shingles are premium impact-resistant architectural shingles specifically engineered to withstand severe weather conditions while maintaining aesthetic appeal.</p>\n\n<ul>\n  <li><strong>ForceFX\u2122 Polymer Technology:</strong> Proprietary blend of polymers that enhances flexibility and impact resistance, allowing the shingles to recover from impacts and perform in extreme weather conditions.</li>\n  <li><strong>Class 3 and Class 4 Impact Resistance:</strong> Classified by UL for compliance with UL 2218 impact resistance standards, potentially qualifying homeowners for insurance premium discounts in hail-prone regions.</li>\n  <li><strong>Industry-Leading Wind Protection:</strong> Features a 160 MPH wind warranty when installed with TAMKO starter and hip and ridge products, offering superior protection in hurricane and high-wind areas.</li>\n  <li><strong>AnchorLock\u2122 Layer:</strong> Proprietary reinforcement that gives StormFighter FLEX shingles their enhanced wind performance by providing a secure anchor for nails.</li>\n  <li><strong>Rapid Fire Zone\u2122:</strong> Clearly defined expanded nailing zone designed for fast and easy installation, reducing installation errors and improving roof performance.</li>\n  <li><strong>Cold Weather Installation:</strong> Can be installed in temperatures as low as 25\u00b0F, the lowest warranted application temperature for any asphalt shingle in the industry.</li>\n  <li><strong>Enhanced Tear Resistance:</strong> Up to 35% more tear resistance than industry standards, ensuring shingles remain intact during severe weather events.</li>\n  <li><strong>Advanced Fusion Sealants:</strong> Polymer-modified sealants specifically designed to maintain stickiness even in cooler weather conditions.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>Tamko StormFighter FLEX shingles come with a <strong>Limited Lifetime Warranty</strong> and a 10-year Full Start\u00ae non-prorated warranty period. When installed by a certified TAMKO contractor, they may qualify for enhanced warranty options. For detailed warranty information, please visit <a href=\"https://www.tamko.com/warranty-center\" target=\"_blank\">Tamko's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection will be required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>Tamko StormFighter FLEX shingles</strong>, you're investing in premium protection against severe weather while enhancing your home's appearance with the distinctive look of architectural shingles.</p>",
+        "image": "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_titan-xt_gallery_3.webp",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/tamko_stormfighter-flex_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "simpleMode": false,
+        "enabled": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Timberline HDZ\u00ae",
+  "headline": "GAF\u2019s #1-selling shingle. High Definition\u00ae color blends backed by strong warranties.",
+  "price": 500.0,
+  "waste": 10,
+  "minPitch": 3,
+  "maxPitch": 12,
+  "pitchThreshold": 7,
+  "pricePerPitch": 15.0,
+  "mainImageName": "Pewter Gray"
+}

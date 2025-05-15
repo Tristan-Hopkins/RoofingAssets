@@ -1,0 +1,11 @@
+{
+  "name": "Owens Corning Oakridge\u00ae",
+  "headline": "Dimensional Laminate Shingles with Classic Style and Wind Resistance",
+  "price": 500.0,
+  "waste": 10,
+  "minPitch": 3,
+  "maxPitch": 12,
+  "pitchThreshold": 7,
+  "pricePerPitch": 15.0,
+  "mainImageName": "Black Walnut"
+}

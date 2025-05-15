@@ -1,0 +1,47 @@
+{
+  "name": "Tamko StormFighter FLEX",
+  "headline": "Impact-Resistant Polymer Modified Shingles for Extreme Weather",
+  "price": 500.0,
+  "waste": 10,
+  "minPitch": 3,
+  "maxPitch": 12,
+  "pitchThreshold": 7,
+  "pricePerPitch": 15.0,
+  "mainImageName": "Black Walnut",
+  "galleryImages": [
+    "data/brands/tamko/materials/stormfighter-flex/gallery/stormfighter-flex_1.jpg",
+    "data/brands/tamko/materials/stormfighter-flex/gallery/stormfighter-flex_2.jpg",
+    "data/brands/tamko/materials/stormfighter-flex/gallery/stormfighter-flex_3.jpg",
+    "data/brands/tamko/materials/stormfighter-flex/gallery/stormfighter-flex_4.jpg",
+    "data/brands/tamko/materials/stormfighter-flex/gallery/stormfighter-flex_5.jpg",
+    "data/brands/tamko/materials/stormfighter-flex/gallery/stormfighter-flex_6.jpg",
+    "data/brands/tamko/materials/stormfighter-flex/gallery/stormfighter-flex_7.jpg"
+  ],
+  "galleryPreviewImages": [
+    "data/brands/tamko/materials/stormfighter-flex/gallery/stormfighter-flex_1_preview.jpg",
+    "data/brands/tamko/materials/stormfighter-flex/gallery/stormfighter-flex_2_preview.jpg",
+    "data/brands/tamko/materials/stormfighter-flex/gallery/stormfighter-flex_3_preview.jpg",
+    "data/brands/tamko/materials/stormfighter-flex/gallery/stormfighter-flex_4_preview.jpg",
+    "data/brands/tamko/materials/stormfighter-flex/gallery/stormfighter-flex_5_preview.jpg",
+    "data/brands/tamko/materials/stormfighter-flex/gallery/stormfighter-flex_6_preview.jpg",
+    "data/brands/tamko/materials/stormfighter-flex/gallery/stormfighter-flex_7_preview.jpg"
+  ],
+  "galleryImagesNames": [
+    "Black Walnut",
+    "Olde English Pewter",
+    "Rustic Black",
+    "Rustic Cedar",
+    "Rustic Slate",
+    "Thunderstorm Grey",
+    "Weathered Wood"
+  ],
+  "useCustomGalleryPreviews": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ]
+}

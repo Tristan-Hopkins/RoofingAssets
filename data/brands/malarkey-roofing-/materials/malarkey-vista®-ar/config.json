@@ -1,0 +1,11 @@
+{
+  "name": "Malarkey Vista\u00ae AR",
+  "headline": "Premium Protection with Advanced Algae Resistance",
+  "price": 500.0,
+  "waste": 10,
+  "minPitch": 3,
+  "maxPitch": 12,
+  "pitchThreshold": 7,
+  "pricePerPitch": 15.0,
+  "mainImageName": "Midnight Black"
+}

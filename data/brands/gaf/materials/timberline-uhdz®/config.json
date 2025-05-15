@@ -1,0 +1,11 @@
+{
+  "name": "GAF Timberline UHDZ\u00ae",
+  "headline": "Timberline UHDZ\u00ae (Ultra High Definition) shingles offer a combination of beauty and benefits that go beyond any other GAF shingle.",
+  "price": 500.0,
+  "waste": 10,
+  "minPitch": 3,
+  "maxPitch": 12,
+  "pitchThreshold": 7,
+  "pricePerPitch": 15.0,
+  "mainImageName": "Pewter Gray"
+}
