@@ -13,6 +13,9 @@ IMAGES_DIR = OUTPUT_DIR / "images"
 OUTPUT_JSON_PATH = OUTPUT_DIR / "all-companies.json"
 IMAGE_PREFIX = "https://catalog.sky-quote.com/RoofingMaterials/Images/"
 
+# Supported image file extensions
+SUPPORTED_IMAGE_EXTENSIONS = [".jpg", ".jpeg", ".png", ".webp", ".gif", ".bmp", ".tiff"]
+
 # Track copied files to avoid duplicates
 copied_files = {}
 
@@ -114,6 +117,14 @@ def load_description(material_dir):
             return f.read()
     return ""
 
+def find_image_file(directory, base_name):
+    """Find an image file with any supported extension."""
+    for ext in SUPPORTED_IMAGE_EXTENSIONS:
+        path = directory / f"{base_name}{ext}"
+        if path.exists():
+            return path
+    return None
+
 def process_gallery_images(gallery_dir, material_id, main_image_name=""):
     """Process gallery images and return gallery data."""
     gallery_images = []
@@ -122,8 +133,10 @@ def process_gallery_images(gallery_dir, material_id, main_image_name=""):
     use_custom_previews = []
     
     # Find all gallery images (that don't end with _preview)
-    main_images = [img for img in gallery_dir.glob("*.jpg") 
-                   if not img.stem.endswith('_preview')]
+    main_images = []
+    for ext in SUPPORTED_IMAGE_EXTENSIONS:
+        main_images.extend([img for img in gallery_dir.glob(f"*{ext}") 
+                       if not img.stem.endswith('_preview')])
     
     # Sort by index
     def get_index(path):
@@ -161,15 +174,18 @@ def process_gallery_images(gallery_dir, material_id, main_image_name=""):
                 continue
             
             # Check for custom preview
-            preview_path = gallery_dir / f"{image_prefix}_{index}_preview.jpg"
-            has_custom_preview = preview_path.exists()
-            
-            if has_custom_preview:
-                preview_unique_id = f"{material_id}_gallery_preview_{index}"
-                preview_path = copy_image(preview_path, preview_unique_id)
-                preview_image = preview_path
-                custom_preview = True
-            else:
+            preview_found = False
+            for ext in SUPPORTED_IMAGE_EXTENSIONS:
+                preview_path = gallery_dir / f"{image_prefix}_{index}_preview{ext}"
+                if preview_path.exists():
+                    preview_found = True
+                    preview_unique_id = f"{material_id}_gallery_preview_{index}"
+                    preview_path = copy_image(preview_path, preview_unique_id)
+                    preview_image = preview_path
+                    custom_preview = True
+                    break
+                    
+            if not preview_found:
                 # Use main image as preview
                 preview_image = new_path
                 custom_preview = False
@@ -218,9 +234,9 @@ def process_material(material_dir, brand_id):
     # Load description
     material['description'] = load_description(material_dir)
     
-    # Process main image
-    main_image_path = material_dir / f"{material_id}_main.jpg"
-    if main_image_path.exists():
+    # Process main image - look for any supported extension
+    main_image_path = find_image_file(material_dir, f"{material_id}_main")
+    if main_image_path:
         material['image'] = copy_image(main_image_path, f"{brand_id}_{material_id}_main")
     else:
         # Skip placeholder creation
@@ -234,9 +250,9 @@ def process_material(material_dir, brand_id):
         with open(main_image_name_path, 'r') as f:
             main_image_name = clean_string(f.read())
     
-    # Process preview image
-    preview_image_path = material_dir / f"{material_id}_preview.jpg"
-    if preview_image_path.exists():
+    # Process preview image - look for any supported extension
+    preview_image_path = find_image_file(material_dir, f"{material_id}_preview")
+    if preview_image_path:
         material['primaryPreviewImage'] = copy_image(preview_image_path, f"{brand_id}_{material_id}_preview")
         material['useCustomPrimaryPreview'] = True
     else:
@@ -280,9 +296,9 @@ def process_brand(brand_dir):
     brand_id = brand_dir.name
     brand['id'] = brand_id
     
-    # Process logo
-    logo_path = brand_dir / f"{brand_id}_logo.jpg"
-    if logo_path.exists():
+    # Process logo - look for any supported extension
+    logo_path = find_image_file(brand_dir, f"{brand_id}_logo")
+    if logo_path:
         brand['logo'] = copy_image(logo_path, f"{brand_id}_logo")
     else:
         # Skip placeholder creation
