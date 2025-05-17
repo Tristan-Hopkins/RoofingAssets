@@ -165,6 +165,414 @@
       }
     ]
   },
+  "iko": {
+    "company": "IKO",
+    "description": "IKO is a global leader in the manufacturing of residential and commercial roofing products.",
+    "id": "iko",
+    "logo": "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_logo.webp",
+    "materials": [
+      {
+        "name": "IKO Armourshake\u2122",
+        "headline": "Premium Designer Shingles with Authentic Wood Shake Aesthetics",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Greystone",
+        "id": "armourshake",
+        "description": "<p><strong>IKO Armourshake\u2122</strong> - <em>Premium Designer Shingles with Authentic Wood Shake Aesthetics</em></p>\n\n<p>Armourshake\u2122 designer asphalt roofing shingles are IKO's ultimate offering in design, dimensional thickness, and heavyweight construction. These luxurious shingles perfectly mimic the look of hand-hewn cedar wood shakes while providing exceptional protection for your home.</p>\n\n<ul>\n  <li><strong>Authentic Wood Shake Appearance:</strong> Features deep cuts, random patterns, and a contoured profile that creates the luxurious look of genuine wood shakes without the maintenance requirements.</li>\n  <li><strong>Heavyweight Construction:</strong> Double-layer fiberglass mat design offers exceptional thickness and dimensional depth that enhances curb appeal and improves wind resistance.</li>\n  <li><strong>Impact Resistance Rating:</strong> Carries a Class 3 Impact Resistance rating (Class 4 available in Shadow Black only), which may qualify homeowners for insurance premium discounts.</li>\n  <li><strong>Superior Wind Protection:</strong> When installed with IKO PROFORMAX\u2122 Integrated Roofing Accessories according to high wind application instructions, qualifies for limited wind coverage up to 130 mph (210 km/h).</li>\n  <li><strong>Premium Sealant Technology:</strong> IKO FastLock\u00ae sealant strips are activated by the sun's heat, creating a powerful bond that helps prevent wind uplift and blow-offs.</li>\n  <li><strong>Algae Resistance:</strong> Contains special algae-resistant granules that help inhibit the growth of blue-green algae, preventing unsightly black streaks and discoloration.</li>\n  <li><strong>Class A Fire Rating:</strong> Offers the highest level of fire resistance, providing superior protection compared to natural wood shakes.</li>\n  <li><strong>Distinctive Color Selection:</strong> Available in stunning color blends including Weathered Stone, Shadow Black, Greystone, Chalet Wood, and Western Redwood, allowing your home to blend beautifully with its natural surroundings.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>IKO Armourshake\u2122 shingles come with a <strong>Limited Lifetime Warranty</strong> for as long as the original owner owns the home. The warranty includes a 15-year Limited Wind Resistance coverage against blow-offs in winds up to 110 mph, with an available High Wind Limited Warranty upgrade to 130 mph. For detailed warranty information, please visit <a href=\"https://www.iko.com/na/warranty/\" target=\"_blank\">IKO's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection will be required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>IKO Armourshake\u2122 shingles</strong>, you're investing in a premium roofing solution that combines the timeless beauty of wood shakes with modern technology for lasting protection and enhanced curb appeal.</p>",
+        "image": "",
+        "primaryPreviewImage": "",
+        "useCustomPrimaryPreview": false,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_armourshake_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_armourshake_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_armourshake_gallery_4.webp"
+        ],
+        "galleryImagesNames": [
+          "Greystone",
+          "Shadow Black",
+          "Weathered Stone"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_armourshake_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_armourshake_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_armourshake_gallery_4.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "IKO Dynasty\u00ae",
+        "headline": "Performance Laminated Shingles with Advanced Weather Protection",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Granite Black",
+        "id": "dynasty",
+        "description": "<p><strong>IKO Dynasty\u00ae</strong> - <em>Performance Laminated Shingles with Advanced Weather Protection</em></p>\n\n<p>IKO Dynasty\u00ae high-performance laminated shingles provide peace of mind for weather-conscious homeowners, combining superior protection with striking aesthetics to enhance your home's curb appeal.</p>\n\n<ul>\n  <li><strong>ArmourZone\u00ae Technology:</strong> Features a 1-1/4\" reinforced nailing surface with a tear-resistant band that ensures exceptional fastening strength and prevents nail pull-through, even in high winds.</li>\n  <li><strong>Class 3 Impact Resistance:</strong> Carries a UL 2218 Class 3 impact resistance rating against hail damage, which may qualify homeowners for insurance premium discounts in eligible areas.</li>\n  <li><strong>Superior Wind Resistance:</strong> Engineered to withstand winds up to 130 mph (210 km/h) with the use of only four nails when installed according to high wind application instructions.</li>\n  <li><strong>True Square Advantage:</strong> Oversized shingles provide greater coverage, reducing the number of bundles required and lowering installation costs for your roofing project.</li>\n  <li><strong>Fastlock\u2122 Sealant:</strong> Special adhesive strips create a strong bond between shingles, helping to resist water penetration and protect against wind uplift.</li>\n  <li><strong>Advanced Color Blending Technology:</strong> Creates distinctive high-definition color blends that enhance your home's exterior appearance and increase its resale value.</li>\n  <li><strong>Class A Fire Rating:</strong> Highest level of fire resistance available, providing enhanced protection for your home against external fire hazards.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>IKO Dynasty\u00ae shingles come with a <strong>Limited Lifetime Warranty</strong> that covers manufacturing defects. Additional warranty features include a 15-year Iron Clad Protection Period and a 130 mph Limited Wind Warranty when installed following high wind application instructions. For detailed warranty information, please visit <a href=\"https://www.iko.com/na/residential-roofing-shingles/warranty/\" target=\"_blank\">IKO's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection will be required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>IKO Dynasty\u00ae shingles</strong>, you're investing in a premium roofing solution that combines advanced weather protection with striking aesthetics, ensuring lasting beauty and security for your home.</p>",
+        "image": "",
+        "primaryPreviewImage": "",
+        "useCustomPrimaryPreview": false,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_7.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_8.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_9.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_10.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_11.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_12.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_13.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_14.webp"
+        ],
+        "galleryImagesNames": [
+          "Atlantic Blue",
+          "Glacier",
+          "Shadow Brown",
+          "Summit Grey",
+          "Cornerstone-Weatherwood",
+          "Biscayne",
+          "Monaco Red",
+          "Frostone Grey",
+          "Emerald Green",
+          "Driftshake",
+          "Brownstone",
+          "Sentinel Slate",
+          "Matte Black"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_7.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_8.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_9.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_10.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_11.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_12.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_13.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_14.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "IKO Dynasty\u00ae Cool Colors\u2122 Plus",
+        "headline": "High-Performance Shingles with Enhanced Energy Efficiency",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Dual Brown",
+        "id": "dynasty-cool-colors-plus",
+        "description": "<p><strong>IKO Cambridge\u00ae Cool Colors\u2122 Plus</strong> - <em>Energy-Efficient Architectural Shingles with Enhanced Solar Reflectivity</em></p>\n\n<p>Cambridge\u00ae Cool Colors\u2122 Plus shingles combine stylish aesthetics with advanced energy efficiency, featuring an exceptional Solar Reflectance Index (SRI) of 20 or greater that exceeds California's Title 24, Part 6 requirements by 25%.</p>\n\n<ul>\n  <li><strong>Superior Solar Reflectivity:</strong> Embedded with infrared-reflective pigments in the surface granules that transmit less of the sun's solar energy into your attic, helping to keep your home cooler.</li>\n  <li><strong>Energy Efficiency:</strong> Helps reduce your home's carbon footprint and potentially lower energy bills by maintaining cooler roof and attic temperatures, particularly valuable in warm climates.</li>\n  <li><strong>California Title 24 Compliant:</strong> Specifically designed to meet and exceed California's energy code requirements, including the more stringent Los Angeles City and County cool roof reflectance standards.</li>\n  <li><strong>COOL PLUS Technology:</strong> Offers sought-after dark color blends with high SRI ratings, allowing you to have the rich, dark colors you desire while still meeting energy efficiency standards.</li>\n  <li><strong>High-Quality Construction:</strong> Features a resilient fiberglass mat core for strength and durability combined with exceptional FastLock\u00ae sealant that helps prevent shingle lift in high winds.</li>\n  <li><strong>Algae Resistance:</strong> Contains built-in blue-green algae resistant granules to prevent unsightly streaking and discoloration over time.</li>\n  <li><strong>True Square Advantage Size:</strong> Larger than most competitors' comparable products, allowing for faster installation and a more dramatic finished appearance.</li>\n  <li><strong>Class 3 Impact Resistance:</strong> Offers enhanced protection against hail and may qualify for insurance premium discounts in some areas.</li>\n</ul>\n\n<p><strong>Color Options:</strong></p>\n<p>Available in three distinct categories to match your style preferences while meeting reflectivity requirements:</p>\n<ul>\n  <li><strong>COOL PLUS:</strong> Premium dark color blends with SRI 20+ rating, including Weatherwood, Harvard Slate, Dual Brown, and Graphite Black.</li>\n  <li><strong>COOL:</strong> Medium-toned blends with SRI 20+ rating, including Canyon Oak and Sand Dune.</li>\n  <li><strong>Natural COOL:</strong> Light color blends with SRI 16+ rating for California Title 24 compliance, including Arctic White and Dual Grey (with additional algae resistance).</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>IKO Cambridge\u00ae Cool Colors\u2122 Plus shingles come with a <strong>Limited Lifetime Warranty</strong> for as long as the original owner owns the home. They also include a 15-year limited wind warranty covering winds up to 110 mph (upgradable to 130 mph), and a 10-year algae resistance warranty. For detailed warranty information, please visit <a href=\"https://www.iko.com/na/warranty/\" target=\"_blank\">IKO's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection will be required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n  <li><strong>Regional Availability:</strong> Cambridge Cool Colors\u2122 Plus shingles are primarily available in regions with cool roof requirements, particularly California and western states.</li>\n</ul>\n\n<p>By choosing <strong>IKO Cambridge\u00ae Cool Colors\u2122 Plus shingles</strong>, you're investing in an energy-efficient roofing solution that combines environmental responsibility with outstanding durability and curb appeal.</p>",
+        "image": "",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty-cool-colors-plus_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty-cool-colors-plus_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty-cool-colors-plus_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty-cool-colors-plus_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty-cool-colors-plus_gallery_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty-cool-colors-plus_gallery_6.webp"
+        ],
+        "galleryImagesNames": [
+          "Graphite Black",
+          "Weatherwood",
+          "Pebble Grey",
+          "Bayshore",
+          "Coastal Sands"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty-cool-colors-plus_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty-cool-colors-plus_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty-cool-colors-plus_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty-cool-colors-plus_gallery_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty-cool-colors-plus_gallery_6.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "IKO Cambridge\u00ae Cool Colors\u2122 Plus",
+        "headline": "Energy-Efficient Architectural Shingles with Enhanced Solar Reflectivity",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "WeatherWood",
+        "id": "cambridge-cool-colors-plus",
+        "description": "<p><strong>IKO Cambridge\u00ae Cool Colors\u2122 Plus</strong> - <em>Energy-Efficient Architectural Shingles with Enhanced Solar Reflectivity</em></p>\n\n<p>IKO Cambridge\u00ae Cool Colors\u2122 Plus shingles combine elegant aesthetics with advanced solar reflective technology, helping homeowners meet energy efficiency requirements while enhancing curb appeal.</p>\n\n<ul>\n  <li><strong>Superior Solar Reflectivity:</strong> Features an impressive Solar Reflectance Index (SRI) of 20 or greater, which can boost a roof's reflectivity by 25% over standard requirements, keeping your home cooler in warm weather.</li>\n  <li><strong>Energy Efficiency:</strong> Specially designed infrared-reflective pigments embedded in the granules transmit less of the sun's energy into your attic, potentially reducing energy bills depending on location, climate, and HVAC systems.</li>\n  <li><strong>Title 24 Compliant:</strong> Specifically engineered to meet California's Title 24, Part 6 cool roof requirements and exceed Los Angeles City and County cool roofing reflectance standards.</li>\n  <li><strong>FastLock\u2122 Sealant:</strong> Features specially designed adhesive strips that become extra-tacky in the sun to create a strong bond, providing protection against wind uplift, blow-off, and water penetration.</li>\n  <li><strong>Fiberglass Core Strength:</strong> Built with a resilient fiberglass mat core for enhanced durability and long-term performance.</li>\n  <li><strong>True Square Advantage:</strong> Larger-sized shingles provide greater coverage than many competitors' comparable products, reducing installation time and material costs.</li>\n  <li><strong>Stylish Color Options:</strong> Available in a variety of attractive medium and darker-toned colors that maintain high reflectivity while complementing your home's exterior design.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>IKO Cambridge\u00ae Cool Colors\u2122 Plus shingles come with a <strong>Limited Lifetime Warranty</strong> against manufacturing defects, and include a 15-year Iron Clad Protection Period. For detailed warranty information, please visit <a href=\"https://www.iko.com/na/residential-roofing-shingles/warranty/\" target=\"_blank\">IKO's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection will be required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n  <li><strong>Regional Availability:</strong> Cambridge Cool Colors\u2122 Plus shingles are only available in certain regions of the U.S. and are not available in Canada.</li>\n</ul>\n\n<p>By choosing <strong>IKO Cambridge\u00ae Cool Colors\u2122 Plus shingles</strong>, you're investing in an environmentally conscious roofing solution that provides exceptional protection while potentially reducing your home's carbon footprint and energy costs.</p>",
+        "image": "",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge-cool-colors-plus_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge-cool-colors-plus_gallery_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge-cool-colors-plus_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge-cool-colors-plus_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge-cool-colors-plus_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty-cool-colors-plus_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge-cool-colors-plus_gallery_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge-cool-colors-plus_gallery_7.webp"
+        ],
+        "galleryImagesNames": [
+          "Amber Burst",
+          "Arctic White",
+          "Canyon Oak",
+          "Dual Brown",
+          "Graphite Black",
+          "Harvard Slate",
+          "Sand Dune"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge-cool-colors-plus_gallery_1.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge-cool-colors-plus_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge-cool-colors-plus_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge-cool-colors-plus_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty-cool-colors-plus_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge-cool-colors-plus_gallery_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge-cool-colors-plus_gallery_7.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "IKO Nordic\u2122",
+        "headline": "High-Performance Shingles with Superior Impact Resistance",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Granite Black",
+        "id": "nordic",
+        "description": "<p><strong>IKO Nordic\u2122</strong> - <em>High-Performance Shingles with Superior Impact Resistance</em></p>\n\n<p>IKO Nordic\u2122 shingles represent IKO's highest performing line, combining exceptional weather protection with striking aesthetics to deliver premium performance for weather-conscious homeowners.</p>\n\n<ul>\n  <li><strong>Class 4 Impact Resistance:</strong> Reinforced with polymer-modified asphalt for the highest level of impact resistance available, potentially qualifying homeowners for insurance premium discounts in eligible areas.</li>\n  <li><strong>Polymer-Modified Asphalt:</strong> Special SBS-modified asphalt formulation provides exceptional flexibility and tear resistance, acting as a shock absorber against hail impacts and severe weather conditions.</li>\n  <li><strong>ArmourZone\u00ae Technology:</strong> Features a 1-1/4\" reinforced nailing surface with a tear-resistant band that ensures exceptional fastening strength and prevents nail pull-through, even in high winds.</li>\n  <li><strong>Superior Wind Resistance:</strong> Engineered to withstand winds up to 130 mph (210 km/h) with the use of only four nails when installed according to high wind application instructions.</li>\n  <li><strong>True Square Advantage:</strong> Extra-large exposure provides full coverage with three bundles equaling exactly 100 square feet, reducing overall project costs and installation time.</li>\n  <li><strong>FastLock\u00ae Sealant:</strong> Special adhesive strips create a strong bond between shingles, helping to resist water penetration and protect against wind uplift.</li>\n  <li><strong>Advanced Color Blending Technology:</strong> Creates high-definition color blends that mimic the look of real stone tiles or wood shakes without the associated maintenance requirements.</li>\n  <li><strong>Algae Resistance:</strong> Special granules embedded in the shingle surface help inhibit the growth of blue-green algae that can cause unsightly black streaks and discoloration.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>IKO Nordic\u2122 shingles come with a <strong>Limited Lifetime Warranty</strong> that covers manufacturing defects. Additional warranty features include a 15-year Iron Clad Protection Period and a 130 mph Limited Wind Warranty when installed following high wind application instructions. For detailed warranty information, please visit <a href=\"https://www.iko.com/na/residential-roofing-shingles/warranty/\" target=\"_blank\">IKO's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection will be required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n  <li><strong>Regional Availability:</strong> Nordic shingles are available only in select markets. Please confirm availability in your area.</li>\n</ul>\n\n<p>By choosing <strong>IKO Nordic\u2122 shingles</strong>, you're investing in a premium roofing solution that combines the highest level of impact protection with striking aesthetics, ensuring lasting beauty and security for your home.</p>",
+        "image": "",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_nordic_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_nordic_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_nordic_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_nordic_gallery_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_9.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_11.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_nordic_gallery_8.webp"
+        ],
+        "galleryImagesNames": [
+          "Shadow Brown",
+          "Summit Grey",
+          "Cornerstone-Weatherwood",
+          "Glacier",
+          "Frostone Grey",
+          "Driftshake",
+          "Brownstone"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_nordic_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_nordic_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_nordic_gallery_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_9.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_dynasty_gallery_11.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_nordic_gallery_8.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "IKO Royal Estate\u2122",
+        "headline": "Premium Designer Shingles with Distinctive Slate-Like Appearance",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Harvest Slate",
+        "id": "royal-estate",
+        "description": "<p><strong>IKO Royal Estate\u2122</strong> - <em>Premium Designer Shingles with Distinctive Slate-Like Appearance</em></p>\n\n<p>IKO Royal Estate\u2122 designer shingles offer the luxurious look of natural slate tiles with uncommonly beautiful, high-definition color blends and superior weather performance, all at a fraction of the cost of genuine slate.</p>\n\n<ul>\n  <li><strong>Authentic Slate Appearance:</strong> Features random-cut contours and deep shadow bands that create a unique, bold look mimicking the luxurious appearance of natural slate tiles.</li>\n  <li><strong>Heavy-Duty Construction:</strong> Engineered with added asphalt and premium materials for exceptional durability and long-lasting protection against the elements.</li>\n  <li><strong>Class 3 Impact Resistance:</strong> Carries a UL 2218 Class 3 impact resistance rating against hail damage, which may qualify homeowners for insurance premium discounts in eligible areas.</li>\n  <li><strong>High Wind Resistance:</strong> Designed to withstand winds up to 110 mph with standard installation, and up to 130 mph with high-wind application methods.</li>\n  <li><strong>Superior Granule Technology:</strong> Special granules help inhibit the growth of blue-green algae that can cause discoloration and help defend against damaging ultraviolet rays.</li>\n  <li><strong>FastLock\u2122 Sealant:</strong> Features adhesive strips that become extra tacky when activated by the sun's heat, creating a strong bond that ensures maximum protection against wind uplift and blow-off.</li>\n  <li><strong>Class A Fire Rating:</strong> Highest level of fire resistance available, providing enhanced protection for your home against external fire hazards.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>IKO Royal Estate\u2122 shingles come with a <strong>Limited Lifetime Warranty</strong> for as long as you own your home, including a 15-year Iron Clad Protection Period. For detailed warranty information, please visit <a href=\"https://www.iko.com/na/residential-roofing-shingles/warranty/\" target=\"_blank\">IKO's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection will be required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>IKO Royal Estate\u2122 shingles</strong>, you're investing in a premium roofing solution that combines the elegant look of natural slate with modern durability and performance features, enhancing your home's curb appeal and providing lasting protection.</p>",
+        "image": "",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_royal-estate_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_royal-estate_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_royal-estate_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_royal-estate_gallery_4.webp"
+        ],
+        "galleryImagesNames": [
+          "Mountain Slate",
+          "Shadow Slate",
+          "Taupe Slate"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_royal-estate_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_royal-estate_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_royal-estate_gallery_4.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "IKO Cambridge\u00ae",
+        "headline": "Classic Dimensional Shingles with Timeless Appeal",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Dual Black",
+        "id": "cambridge",
+        "description": "<p><strong>IKO Cambridge\u00ae</strong> - <em>Classic Dimensional Shingles with Timeless Appeal</em></p>\n\n<p>Cambridge\u00ae architectural shingles provide the beauty of natural wood shakes without the upkeep, combining high-quality asphalt construction with superior durability and a dimensional profile that enhances your home's curb appeal.</p>\n\n<ul>\n  <li><strong>Wood-Shake Appearance:</strong> Features a random shake-look design with deep shadow bands that create the upscale appearance of natural wood shakes at an affordable cost.</li>\n  <li><strong>True Square Advantage Sizing:</strong> Larger shingles than most competitor products, allowing for faster installation and creating greater visual impact with a designer look.</li>\n  <li><strong>Class 3 Impact Resistance:</strong> Offers enhanced protection against hail damage, potentially qualifying homeowners for insurance premium discounts in certain regions.</li>\n  <li><strong>Resilient Fiberglass Core:</strong> High-quality construction with a dimensionally stable fiberglass mat that's thoroughly impregnated with stabilized waterproofing bitumen for long-lasting protection.</li>\n  <li><strong>FastLock\u00ae Sealant Technology:</strong> Special thermally activated sealant strips along the bottom edges become extra-tacky when heated by the sun, creating a strong bond to protect against wind uplift, blow-offs, and water penetration.</li>\n  <li><strong>Blue-Green Algae Resistance:</strong> Contains special algae-inhibiting granules that help prevent unsightly black stains and streaking, keeping your roof looking fresh for years.</li>\n  <li><strong>UV Protection:</strong> Colored ceramic granules surface both layers of the shingle to protect the asphalt from ultraviolet radiation, extending the life of your roof.</li>\n  <li><strong>Environmentally Considerate:</strong> Shingles are produced and designed with consideration for environmental responsibility and sustainability.</li>\n</ul>\n\n<p><strong>Color Options:</strong></p>\n<p>Available in a wide range of beautiful color blends to complement any home style:</p>\n<ul>\n  <li><strong>Dual Black:</strong> Bold, dramatic, timeless appearance</li>\n  <li><strong>Weatherwood:</strong> Rustic, informal, laid-back look</li>\n  <li><strong>Driftwood:</strong> Versatile, dark and handsome finish</li>\n  <li><strong>Dual Brown:</strong> Earthy, organic, rustic aesthetic</li>\n  <li><strong>Charcoal Grey:</strong> Sophisticated contemporary appearance</li>\n  <li><strong>Earthtone Cedar:</strong> Warm natural wood tones</li>\n  <li><strong>Harvard Slate:</strong> Classic slate-like appearance</li>\n  <li><strong>Beachwood:</strong> Light, coastal-inspired color</li>\n  <li><strong>Dove White:</strong> Bright, clean appearance</li>\n  <li><strong>Dual Grey:</strong> Sleek, modern look</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>IKO Cambridge\u00ae shingles come with a <strong>Limited Lifetime Warranty</strong> for as long as the original owner owns the home. They also include a limited wind warranty for winds up to 110 mph (upgradable to 130 mph with enhanced installation), and a 10-year algae resistance warranty. For detailed warranty information, please visit <a href=\"https://www.iko.com/na/warranty/\" target=\"_blank\">IKO's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection will be required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>IKO Cambridge\u00ae shingles</strong>, you're investing in a roofing solution that combines dimensional beauty with exceptional protection at an accessible price point.</p>",
+        "image": "",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge_gallery_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge_gallery_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge_gallery_7.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge_gallery_8.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge_gallery_9.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge_gallery_10.webp"
+        ],
+        "galleryImagesNames": [
+          "Weatherwood",
+          "Beachwood",
+          "Charcoal Grey",
+          "Dove White",
+          "Driftwood",
+          "Dual Grey",
+          "Dual Brown",
+          "Earthtone Cedar",
+          "Harvard Slate"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge_gallery_2.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge_gallery_3.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge_gallery_4.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge_gallery_5.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge_gallery_6.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge_gallery_7.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge_gallery_8.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge_gallery_9.webp",
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_cambridge_gallery_10.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      },
+      {
+        "name": "IKO Crowne Slate\u2122",
+        "headline": "Designer Shingles with the Elegant Look of Natural Slate",
+        "price": 500.0,
+        "waste": 10,
+        "minPitch": 3,
+        "maxPitch": 12,
+        "pitchThreshold": 7,
+        "pricePerPitch": 15.0,
+        "mainImageName": "Regal Stone",
+        "id": "crowne-slate",
+        "description": "<p><strong>IKO Crowne Slate\u2122</strong> - <em>Designer Shingles with the Elegant Look of Natural Slate</em></p>\n\n<p>IKO Crowne Slate\u2122 shingles combine luxurious looks with premium quality, mimicking the high-end appeal of natural slate tiles while offering superior protection and durability for your home.</p>\n\n<ul>\n  <li><strong>Authentic Slate Appearance:</strong> Precisely crafted to recreate the luxurious, sought-after look of natural slate tiles, adding a touch of elegance and sophistication to exclusive properties.</li>\n  <li><strong>Class 4 Impact Resistance:</strong> Carries the highest impact resistance rating available, which may qualify homeowners for a reduction in their residential insurance premiums in eligible areas.</li>\n  <li><strong>Heavy-Duty Construction:</strong> Premium asphalt and heavyweight design provide exceptional durability and cushion against the impact of hail and extreme weather conditions.</li>\n  <li><strong>Generous Exposure:</strong> Features a 10-inch exposure that creates a stunning roofscape and enhances the visual appeal of upscale homes.</li>\n  <li><strong>Superior Wind Resistance:</strong> When installed with IKO's High Wind Application and PROFORMAX Integrated Roofing Accessories, qualifies for limited wind coverage up to 130 mph (210 km/h).</li>\n  <li><strong>Algae Resistance:</strong> Contains algae-resistant granules that help inhibit discoloration caused by blue-green algae, maintaining your roof's appearance over time.</li>\n  <li><strong>Distinctive Color Blends:</strong> Available in elegant color options that complement a variety of architectural styles and enhance your home's curb appeal.</li>\n</ul>\n\n<p><strong>Warranty Information:</strong></p>\n<p>IKO Crowne Slate\u2122 shingles come with a <strong>Limited Lifetime Warranty</strong> against manufacturing defects. When installed by an IKO ROOFPRO\u00ae contractor, additional warranty benefits may be available. For detailed warranty information, please visit <a href=\"https://www.iko.com/na/residential-roofing-shingles/warranty/\" target=\"_blank\">IKO's official warranty page</a>.</p>\n\n<p><strong>Important Considerations:</strong></p>\n<ul>\n  <li><strong>Estimate Accuracy:</strong> This estimate is based on satellite imagery and may not reflect the exact conditions of your roof. An on-site inspection will be required for a final quote.</li>\n  <li><strong>Additional Layers:</strong> If more than one layer of roofing needs to be removed, extra labor and disposal costs may apply.</li>\n  <li><strong>Structural Repairs:</strong> This quote does not account for hidden damage, such as rotted or weakened decking, which may need replacement. Any necessary repairs will be assessed during installation and discussed before proceeding.</li>\n  <li><strong>Specialty Work:</strong> Additional services, such as custom flashing, skylight replacement, or ventilation upgrades, may require adjustments to the final cost.</li>\n</ul>\n\n<p>By choosing <strong>IKO Crowne Slate\u2122 shingles</strong>, you're investing in a premium roofing solution that enhances your home's architectural beauty while providing fortress-like protection against the elements.</p>",
+        "image": "",
+        "primaryPreviewImage": "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_crowne-slate_preview.webp",
+        "useCustomPrimaryPreview": true,
+        "galleryImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_crowne-slate_gallery_2.webp"
+        ],
+        "galleryImagesNames": [
+          "Royal Granite"
+        ],
+        "galleryPreviewImages": [
+          "https://catalog.sky-quote.com/RoofingMaterials/Images/iko_crowne-slate_gallery_2.webp"
+        ],
+        "useCustomGalleryPreviews": [
+          true
+        ],
+        "simpleMode": false,
+        "enabled": true
+      }
+    ]
+  },
   "gaf": {
     "company": "GAF",
     "description": "As North America\u2019s largest roofing manufacturer, GAF is an industry leader that produces quality, innovative roofing materials.",
