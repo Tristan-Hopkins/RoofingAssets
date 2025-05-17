@@ -1,0 +1,11 @@
+{
+  "name": "IKO Royal Estate\u2122",
+  "headline": "Premium Designer Shingles with Distinctive Slate-Like Appearance",
+  "price": 500.0,
+  "waste": 10,
+  "minPitch": 3,
+  "maxPitch": 12,
+  "pitchThreshold": 7,
+  "pricePerPitch": 15.0,
+  "mainImageName": "Harvest Slate"
+}

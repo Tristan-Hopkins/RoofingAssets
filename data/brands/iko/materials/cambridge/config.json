@@ -1,0 +1,11 @@
+{
+  "name": "IKO Cambridge\u00ae",
+  "headline": "Classic Dimensional Shingles with Timeless Appeal",
+  "price": 500.0,
+  "waste": 10,
+  "minPitch": 3,
+  "maxPitch": 12,
+  "pitchThreshold": 7,
+  "pricePerPitch": 15.0,
+  "mainImageName": "Dual Black"
+}

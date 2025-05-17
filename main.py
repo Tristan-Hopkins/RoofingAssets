@@ -89,6 +89,38 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
+# Helper functions for handling image files
+def get_file_extension(file):
+    if file is None:
+        return ".jpg"  # Default fallback
+    return Path(file.name).suffix.lower()
+
+def find_image(directory, base_filename):
+    """Find an image with any supported extension."""
+    extensions = [".jpg", ".jpeg", ".png", ".webp"]
+    for ext in extensions:
+        file_path = directory / f"{base_filename}{ext}"
+        if file_path.exists():
+            return file_path
+    return None
+
+def find_all_images(directory, pattern):
+    """Find all images matching a pattern with any supported extension."""
+    result = []
+    extensions = [".jpg", ".jpeg", ".png", ".webp"]
+    
+    # Fix for invalid glob pattern
+    if pattern == "*":
+        # If pattern is already a wildcard, use it directly
+        for ext in extensions:
+            result.extend(list(directory.glob(f"*{ext}")))
+    else:
+        # Otherwise append wildcard to the pattern
+        for ext in extensions:
+            result.extend(list(directory.glob(f"{pattern}*{ext}")))
+    
+    return result
+
 # Functions to load and save data
 def load_brands():
     brands = []
@@ -161,10 +193,14 @@ def save_material(brand_id, material):
         json.dump(config, f, indent=2)
 
 def upload_image(file, path, filename):
-    full_path = path / filename
+    """Upload image preserving original extension"""
+    # Get the extension from the uploaded file
+    ext = get_file_extension(file)
+    full_path = path / f"{filename}{ext}"
+    
     with open(full_path, "wb") as f:
         f.write(file.getbuffer())
-    return str(full_path)
+    return str(full_path), ext
 
 def navigate_to(page, brand=None, material=None):
     st.session_state.current_page = page
@@ -223,6 +259,17 @@ def main():
             """,
             unsafe_allow_html=True
         )
+    elif st.session_state.current_page == "edit_brand" and st.session_state.current_brand:
+        st.markdown(
+            f"""
+            <div class="breadcrumb">
+                <div class="breadcrumb-item" onclick="window.location.href='?page=brands'">Brands</div>
+                <div class="breadcrumb-separator">></div>
+                <div>Edit {st.session_state.current_brand['company']}</div>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
     
     # Display the appropriate page
     if st.session_state.current_page == "brands":
@@ -231,9 +278,57 @@ def main():
         show_materials_page()
     elif st.session_state.current_page == "edit_material" and st.session_state.current_material:
         show_material_editor()
+    elif st.session_state.current_page == "edit_brand" and st.session_state.current_brand:
+        show_brand_editor()
     else:
         st.session_state.current_page = "brands"
         show_brands_page()
+
+def show_brand_editor():
+    """New function to edit brand details"""
+    brand = st.session_state.current_brand
+    st.header(f"Edit Brand: {brand['company']}")
+    
+    with st.form("edit_brand_form"):
+        brand_name = st.text_input("Brand Name", value=brand['company'])
+        brand_desc = st.text_area("Description", value=brand.get('description', ''))
+        brand_logo = st.file_uploader("Change Brand Logo", type=["jpg", "jpeg", "png", "webp"])
+        
+        # Display current logo if it exists
+        logo_path = find_image(BRANDS_DIR / brand['id'], f"{brand['id']}_logo")
+        if logo_path:
+            st.image(str(logo_path), width=200, caption="Current Logo")
+        
+        submitted = st.form_submit_button("Save Changes")
+        if submitted:
+            # Update brand name if changed
+            if brand_name != brand['company']:
+                brand['company'] = brand_name
+            
+            # Update description
+            brand['description'] = brand_desc
+            
+            # Update logo if provided
+            if brand_logo:
+                brand_dir = BRANDS_DIR / brand['id']
+                # Remove old logo file if it exists
+                old_logo = find_image(brand_dir, f"{brand['id']}_logo")
+                if old_logo:
+                    old_logo.unlink()
+                
+                # Upload new logo
+                logo_path, ext = upload_image(brand_logo, brand_dir, f"{brand['id']}_logo")
+            
+            # Save updated brand
+            save_brand(brand)
+            st.success(f"Brand {brand_name} updated successfully!")
+            
+            # Refresh the current brand in session state
+            st.session_state.current_brand = brand
+    
+    # Back to brands button
+    if st.button("Back to Brands"):
+        navigate_to("brands")
 
 def show_brands_page():
     st.header("Manage Brands")
@@ -243,7 +338,7 @@ def show_brands_page():
         with st.form("new_brand_form"):
             brand_name = st.text_input("Brand Name", placeholder="e.g., Malarkey")
             brand_desc = st.text_area("Description", placeholder="Enter a description...")
-            brand_logo = st.file_uploader("Brand Logo", type=["jpg", "jpeg", "png"])
+            brand_logo = st.file_uploader("Brand Logo", type=["jpg", "jpeg", "png", "webp"])
             
             submitted = st.form_submit_button("Create Brand")
             if submitted and brand_name:
@@ -251,8 +346,7 @@ def show_brands_page():
                 brand = {
                     'id': brand_id,
                     'company': brand_name,
-                    'description': brand_desc,
-                    'logo': f"{brand_id}_logo.jpg"
+                    'description': brand_desc
                 }
                 
                 # Save brand
@@ -261,7 +355,7 @@ def show_brands_page():
                 # Upload logo if provided
                 if brand_logo:
                     brand_dir = BRANDS_DIR / brand_id
-                    upload_image(brand_logo, brand_dir, f"{brand_id}_logo.jpg")
+                    logo_path, ext = upload_image(brand_logo, brand_dir, f"{brand_id}_logo")
                 
                 # Add to session state
                 st.session_state.brands.append(brand)
@@ -282,8 +376,8 @@ def show_brands_page():
                 
                 col1, col2 = st.columns([1, 2])
                 with col1:
-                    logo_path = BRANDS_DIR / brand['id'] / f"{brand['id']}_logo.jpg"
-                    if logo_path.exists():
+                    logo_path = find_image(BRANDS_DIR / brand['id'], f"{brand['id']}_logo")
+                    if logo_path:
                         st.image(str(logo_path), width=100)
                     else:
                         st.image("https://via.placeholder.com/100x100?text=No+Logo", width=100)
@@ -291,11 +385,14 @@ def show_brands_page():
                     st.markdown(f"### {brand['company']}")
                     st.write(f"{brand.get('description', 'No description')[:100]}...")
                 
-                col1, col2 = st.columns(2)
+                col1, col2, col3 = st.columns(3)
                 with col1:
                     if st.button("🔍 View Materials", key=f"view_{brand['id']}"):
                         navigate_to("materials", brand)
                 with col2:
+                    if st.button("✏️ Edit", key=f"edit_{brand['id']}"):
+                        navigate_to("edit_brand", brand)
+                with col3:
                     if st.button("🗑️ Delete", key=f"delete_{brand['id']}"):
                         if st.session_state.current_brand and st.session_state.current_brand['id'] == brand['id']:
                             st.session_state.current_brand = None
@@ -371,8 +468,8 @@ def show_materials_page():
                 st.markdown('<div class="custom-container">', unsafe_allow_html=True)
                 
                 # Material image
-                main_image_path = BRANDS_DIR / brand['id'] / "materials" / material['id'] / f"{material['id']}_main.jpg"
-                if main_image_path.exists():
+                main_image_path = find_image(BRANDS_DIR / brand['id'] / "materials" / material['id'], f"{material['id']}_main")
+                if main_image_path:
                     st.image(str(main_image_path), use_column_width=True)
                 else:
                     st.image("https://via.placeholder.com/400x300?text=No+Image", use_column_width=True)
@@ -460,8 +557,8 @@ def show_material_editor():
         col1, col2 = st.columns([1, 2])
         with col1:
             # Display current main image
-            main_image_path = BRANDS_DIR / brand['id'] / "materials" / material['id'] / f"{material['id']}_main.jpg"
-            if main_image_path.exists():
+            main_image_path = find_image(BRANDS_DIR / brand['id'] / "materials" / material['id'], f"{material['id']}_main")
+            if main_image_path:
                 st.image(str(main_image_path), use_column_width=True)
             else:
                 st.info("No main image uploaded yet")
@@ -474,13 +571,18 @@ def show_material_editor():
                 help="This name will be displayed when showing the main image"
             )
             
-            main_image = st.file_uploader("Upload Main Image", type=["jpg", "jpeg", "png"], key="main_image")
+            main_image = st.file_uploader("Upload Main Image", type=["jpg", "jpeg", "png", "webp"], key="main_image")
             if main_image:
                 # Preview
                 st.image(main_image, width=300)
                 if st.button("Save Main Image"):
+                    # Remove old main image if it exists
+                    old_main_image = find_image(BRANDS_DIR / brand['id'] / "materials" / material['id'], f"{material['id']}_main")
+                    if old_main_image:
+                        old_main_image.unlink()
+                    
                     material_dir = BRANDS_DIR / brand['id'] / "materials" / material['id']
-                    upload_image(main_image, material_dir, f"{material['id']}_main.jpg")
+                    main_image_path, _ = upload_image(main_image, material_dir, f"{material['id']}_main")
                     # Update the main image name
                     material['mainImageName'] = main_image_name
                     save_material(brand['id'], material)
@@ -494,34 +596,39 @@ def show_material_editor():
         col1, col2 = st.columns([1, 2])
         with col1:
             # Display current preview image
-            preview_image_path = BRANDS_DIR / brand['id'] / "materials" / material['id'] / f"{material['id']}_preview.jpg"
-            if preview_image_path.exists():
+            preview_image_path = find_image(BRANDS_DIR / brand['id'] / "materials" / material['id'], f"{material['id']}_preview")
+            if preview_image_path:
                 st.image(str(preview_image_path), use_column_width=True)
             else:
                 st.info("No preview image uploaded yet")
-                if main_image_path.exists():
+                if main_image_path:
                     st.caption("Using main image instead")
-                    st.image(str(main_image_path), use_column_width=True, output_format="JPEG")
+                    st.image(str(main_image_path), use_column_width=True)
         
         with col2:
             use_custom_preview = st.checkbox(
                 "Use custom preview image", 
-                value=preview_image_path.exists(),
+                value=preview_image_path is not None,
                 help="When enabled, you can upload a different image for previews"
             )
             
             if use_custom_preview:
-                preview_image = st.file_uploader("Upload Preview Image", type=["jpg", "jpeg", "png"], key="preview_image")
+                preview_image = st.file_uploader("Upload Preview Image", type=["jpg", "jpeg", "png", "webp"], key="preview_image")
                 if preview_image:
                     # Preview
                     st.image(preview_image, width=300)
                     if st.button("Save Preview Image"):
+                        # Remove old preview image if it exists
+                        old_preview_image = find_image(BRANDS_DIR / brand['id'] / "materials" / material['id'], f"{material['id']}_preview")
+                        if old_preview_image:
+                            old_preview_image.unlink()
+                        
                         material_dir = BRANDS_DIR / brand['id'] / "materials" / material['id']
-                        upload_image(preview_image, material_dir, f"{material['id']}_preview.jpg")
+                        preview_image_path, _ = upload_image(preview_image, material_dir, f"{material['id']}_preview")
                         st.success("Preview image uploaded successfully!")
                         st.experimental_rerun()
             else:
-                if preview_image_path.exists():
+                if preview_image_path:
                     if st.button("Use Main Image Instead"):
                         # Delete the custom preview image
                         preview_image_path.unlink()
@@ -610,7 +717,7 @@ def show_material_editor():
             
             col1, col2 = st.columns(2)
             with col1:
-                gallery_image = st.file_uploader("Upload Gallery Image", type=["jpg", "jpeg", "png"], key="gallery_image")
+                gallery_image = st.file_uploader("Upload Gallery Image", type=["jpg", "jpeg", "png", "webp"], key="gallery_image")
                 if gallery_image:
                     st.image(gallery_image, width=300)
             
@@ -622,23 +729,35 @@ def show_material_editor():
                 )
                 
                 if use_custom_gallery_preview:
-                    gallery_preview = st.file_uploader("Upload Thumbnail", type=["jpg", "jpeg", "png"], key="gallery_preview")
+                    gallery_preview = st.file_uploader("Upload Thumbnail", type=["jpg", "jpeg", "png", "webp"], key="gallery_preview")
                     if gallery_preview:
                         st.image(gallery_preview, width=150)
             
             if gallery_image and st.button("Add to Gallery"):
                 # Generate index
                 gallery_dir = BRANDS_DIR / brand['id'] / "materials" / material['id'] / "gallery"
-                existing_indices = [int(f.stem.split('_')[-1]) for f in gallery_dir.glob(f"{material['id']}_*.jpg") 
-                                   if f.stem.split('_')[-1].isdigit() and not f.stem.endswith('_preview')]
+                
+                # Get all existing indices by looking for all image files
+                # Find images that match pattern + number and don't end with _preview
+                existing_images = []
+                for ext in [".jpg", ".jpeg", ".png", ".webp"]:
+                    existing_images.extend(list(gallery_dir.glob(f"{material['id']}_*{ext}")))
+                
+                existing_indices = []
+                for img_path in existing_images:
+                    # Extract the last part of the filename which should be a number
+                    parts = img_path.stem.split('_')
+                    if parts and parts[-1].isdigit() and not img_path.stem.endswith('_preview'):
+                        existing_indices.append(int(parts[-1]))
+                
                 next_index = max(existing_indices) + 1 if existing_indices else 1
                 
-                # Upload image
-                upload_image(gallery_image, gallery_dir, f"{material['id']}_{next_index}.jpg")
+                # Upload image with original extension
+                upload_image(gallery_image, gallery_dir, f"{material['id']}_{next_index}")
                 
                 # Upload preview if provided
                 if use_custom_gallery_preview and gallery_preview:
-                    upload_image(gallery_preview, gallery_dir, f"{material['id']}_{next_index}_preview.jpg")
+                    upload_image(gallery_preview, gallery_dir, f"{material['id']}_{next_index}_preview")
                 
                 # Save name if provided
                 if image_name:
@@ -653,8 +772,13 @@ def show_material_editor():
         
         # Display gallery images
         gallery_dir = BRANDS_DIR / brand['id'] / "materials" / material['id'] / "gallery"
-        # Look for any jpg files in the gallery directory that don't end with "_preview"
-        gallery_images = list(gallery_dir.glob("*.jpg"))
+        
+        # Look for any image files in the gallery directory - fixed glob pattern
+        gallery_images = []
+        for ext in [".jpg", ".jpeg", ".png", ".webp"]:
+            gallery_images.extend(list(gallery_dir.glob(f"*{ext}")))
+        
+        # Filter out preview images
         gallery_images = [img for img in gallery_images if not img.stem.endswith('_preview')]
         
         if not gallery_images:
@@ -668,6 +792,7 @@ def show_material_editor():
                     gallery_indices.append(int(parts[-1]))
             
             # Sort indices
+            gallery_indices = list(set(gallery_indices))  # Remove duplicates
             gallery_indices.sort()
             
             # Display gallery images in a grid
@@ -683,7 +808,10 @@ def show_material_editor():
                             st.markdown('<div class="custom-container">', unsafe_allow_html=True)
                             
                             # Find the file with this index number at the end
-                            image_files = list(gallery_dir.glob(f"*_{index}.jpg"))
+                            image_files = []
+                            for ext in [".jpg", ".jpeg", ".png", ".webp"]:
+                                image_files.extend(list(gallery_dir.glob(f"*_{index}{ext}")))
+                            
                             if not image_files:
                                 continue
                                 
@@ -691,7 +819,7 @@ def show_material_editor():
                             image_base = image_path.stem  # Get filename without extension
                             image_prefix = image_base.rsplit('_', 1)[0]  # Get everything before the _index
                             
-                            preview_path = gallery_dir / f"{image_prefix}_{index}_preview.jpg"
+                            preview_path = find_image(gallery_dir, f"{image_prefix}_{index}_preview")
                             name_path = gallery_dir / f"{image_prefix}_{index}_name.txt"
                             
                             image_name = ""
@@ -714,20 +842,23 @@ def show_material_editor():
                                         st.success("Caption saved")
                                     
                                     # Thumbnail settings
-                                    has_custom = preview_path.exists()
+                                    has_custom = preview_path is not None
                                     use_custom = st.checkbox("Custom thumbnail", value=has_custom, key=f"custom_{index}")
                                     
                                     if use_custom and not has_custom:
-                                        preview_upload = st.file_uploader(f"Upload thumbnail", key=f"preview_{index}")
+                                        preview_upload = st.file_uploader(f"Upload thumbnail", type=["jpg", "jpeg", "png", "webp"], key=f"preview_{index}")
                                         if preview_upload and st.button(f"Save thumbnail", key=f"save_preview_{index}"):
-                                            upload_image(preview_upload, gallery_dir, f"{image_prefix}_{index}_preview.jpg")
+                                            upload_image(preview_upload, gallery_dir, f"{image_prefix}_{index}_preview")
                                             st.success("Thumbnail saved!")
                                             st.experimental_rerun()
                                     elif use_custom and has_custom:
                                         st.image(str(preview_path), width=100, caption="Current thumbnail")
-                                        new_preview = st.file_uploader(f"Change thumbnail", key=f"change_preview_{index}")
+                                        new_preview = st.file_uploader(f"Change thumbnail", type=["jpg", "jpeg", "png", "webp"], key=f"change_preview_{index}")
                                         if new_preview and st.button(f"Update thumbnail", key=f"update_preview_{index}"):
-                                            upload_image(new_preview, gallery_dir, f"{image_prefix}_{index}_preview.jpg")
+                                            # Remove old preview
+                                            preview_path.unlink()
+                                            # Upload new preview
+                                            upload_image(new_preview, gallery_dir, f"{image_prefix}_{index}_preview")
                                             st.success("Thumbnail updated!")
                                             st.experimental_rerun()
                                     elif not use_custom and has_custom:
@@ -742,7 +873,8 @@ def show_material_editor():
                                     # Delete all related files
                                     image_path.unlink(missing_ok=True)
                                     name_path.unlink(missing_ok=True)
-                                    preview_path.unlink(missing_ok=True)
+                                    if preview_path:
+                                        preview_path.unlink(missing_ok=True)
                                     st.success(f"Gallery image {index} deleted.")
                                     st.experimental_rerun()
                             

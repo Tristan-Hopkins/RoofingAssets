@@ -1,0 +1,11 @@
+{
+  "name": "IKO Cambridge\u00ae Cool Colors\u2122 Plus",
+  "headline": "Energy-Efficient Architectural Shingles with Enhanced Solar Reflectivity",
+  "price": 500.0,
+  "waste": 10,
+  "minPitch": 3,
+  "maxPitch": 12,
+  "pitchThreshold": 7,
+  "pricePerPitch": 15.0,
+  "mainImageName": "WeatherWood"
+}

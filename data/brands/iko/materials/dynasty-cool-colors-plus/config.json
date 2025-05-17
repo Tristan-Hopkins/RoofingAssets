@@ -1,0 +1,11 @@
+{
+  "name": "IKO Dynasty\u00ae Cool Colors\u2122 Plus",
+  "headline": "High-Performance Shingles with Enhanced Energy Efficiency",
+  "price": 500.0,
+  "waste": 10,
+  "minPitch": 3,
+  "maxPitch": 12,
+  "pitchThreshold": 7,
+  "pricePerPitch": 15.0,
+  "mainImageName": "Dual Brown"
+}
